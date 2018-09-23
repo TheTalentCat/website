@@ -24,7 +24,7 @@ order: 4
 
 ## The Talent Cat
 
-Looking to make your next career move? Trying to up your game as a recruiter? Whichever side of hiring you live and breathe today, The Talent Cat is on your side!
+Are you a human looking to make your next career move? Or maybe you are on the other side of the fence, trying to up your game as a recruiter? Whichever side of hiring you live and breathe today, The Talent Cat is on your side!
 {:.lead}
 
 
