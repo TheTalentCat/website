@@ -20,9 +20,9 @@ author1:
   picture:
     path:            https://github.com/TheTalentCat/website/blob/gh-pages/assets/img/Talent%20Cat.jpeg
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            https://github.com/TheTalentCat/website/blob/gh-pages/assets/img/Talent%20Cat.jpeg
-      2x:            https://github.com/TheTalentCat/website/blob/gh-pages/assets/img/Talent%20Cat.jpeg
+  #  srcset:
+  #    1x:            https://github.com/TheTalentCat/website/blob/gh-pages/assets/img/Talent%20Cat.jpeg
+  #    2x:            https://github.com/TheTalentCat/website/blob/gh-pages/assets/img/Talent%20Cat.jpeg
 
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
