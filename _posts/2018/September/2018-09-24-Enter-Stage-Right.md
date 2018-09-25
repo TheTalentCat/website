@@ -23,7 +23,7 @@ So what does this mean for our relationship as I tap these words?
 
 It means our success is mutual.
 
-Read my words, voice your comments, and share your favorite works of mine. Together, we can make the worlds of hiring a better place.
+Read my words and voice your comments. Share your favorite works of mine. Together, we can make the worlds of hiring a better place.
 
 Ready for success? Or at the very least, something better?
 
