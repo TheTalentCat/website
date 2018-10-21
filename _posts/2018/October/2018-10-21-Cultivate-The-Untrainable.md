@@ -45,7 +45,7 @@ Why?
 
 The companies with better work environment will spend effort to discuss what those untrainable skills should look like in action within their operation. If you want to be a living legend, and work with amazing people to achieve meaningful impact on the world, then heed my call.
 
-**Sacrifice the parts of yourself that are mediocre until you are immensely desirable**.
+**Sacrifice the parts of yourself that are mediocre until you are immensely desirable**.**Then raise similar standards for any company that you would be willing to apply for work**.
 
 Untrainable does not mean unattainable. Rather, the self-effort it takes to cultivate desirable untrainables means that such qualities are uncommon, often rare, potentially epic, and can make you legendary. If you're looking for inspiration, let me point you towards two shining examples to imitate.
 
