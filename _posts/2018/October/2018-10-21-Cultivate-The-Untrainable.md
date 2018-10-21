@@ -17,15 +17,21 @@ There are three kinds of challenges.
 It's amusing in light of this understanding to look at typical job advertisements on popular job boards like Indeed and CareerBuilder where companies list quality after quality of what they desire even for unskilled roles, and practically every qualification relates to what the candidate knows and what they can do. The attention given to matters of the heart are often limited to buzzwords; a mere afterthought.
 
 *Self-driven*
+
 *Hard working*
+
 *Motivated*
+
 *Diligent*
 
 Hey, I can make word pizza too!
 
 *Highly Compensated*
+
 *6 weeks Paid Vacation*
+
 *ALL Holidays Off*
+
 *Banana*
 
  One of my colleagues ruminates on this concept in [this brilliant article](https://hunterhansen.net/2018/10/18/the-life-autistic-can-empathy-be-learned/?fbclid=IwAR10vg_xIi0qOd9lQQIQ6basUSsEB0UZnc1IFoUsM3hf_Rp8zkit6N0_PW4) about his own journey to cultivate his own untrainable skill.
