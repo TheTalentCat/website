@@ -7,7 +7,7 @@ Hello World...
 I am not a recruiter. But I know the world of recruitment.
 I am not a job seeker. But I know the world of job seeking.
 
-I am your friend who walks on the fence. My home lies betwixt two worlds. I am your secret connection to the whispers on the other side.
+I am your friend who walks on the fence. My home lies betwixt two planes of existence. I am your secret channel to the whispers on the other side.
 
 I am a talent cat.
 
@@ -21,12 +21,10 @@ You can do it.
 
 So what does this mean for our relationship as I tap these words?
 
-It means our success is mutual.
+It means our success is mutual. We are all together on a big rock hurtling ~67,000/mph (~107,000 km/h for you metric folks) through space and time. If we're going to be neighbors, then let us work together to make the journey enjoyable for all.
 
-Read my words and voice your comments. Share your favorite works of mine. Together, we can make the worlds of hiring a better place.
+Read my words and voice your comments. Share your favorite works of mine. Together, we can make the world a better place.
 
 Ready for success? Or at the very least, something better?
 
-If so, then look at my next post, and accept my challenge.
-
-You won't regret it...
+I'm waiting for you.
