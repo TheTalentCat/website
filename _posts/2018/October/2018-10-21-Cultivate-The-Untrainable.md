@@ -4,7 +4,7 @@ layout: post
 
 Untrainable skills are part of what make you unique.
 
-![Untrainable](/website/assets/img/untrainable.png)
+![Untrainable](/website/assets/img/untrainable.png) *this is a test*
 
 Untrainable does not mean unattainable. Rather, the self-effort it takes to cultivate means that such qualities are rare. I still recall a conversation from one of my wisest managers who explained it this way.
 
