@@ -37,7 +37,7 @@ It's amusing in light of this understanding to look at typical job advertisement
 
 Bah.
 
-If you don't see significant value placed on the untrainables in a job advertisement, you're going to likely end up working with a lot of rotten co-workers.
+If you don't see significant value placed on the untrainables in a job advertisement, consider it a red flag. If you do get the job, you're going to likely end up working with a lot of rotten co-workers.
 
 Why?
 
