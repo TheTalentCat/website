@@ -14,18 +14,18 @@ I still recall a conversation from one of my wisest managers who put it like thi
 There are three kinds of challenges.
 
 1. **The challenge of the head**. If one of my employees does not know something, I can teach him the facts, concepts, and principles.
-2. **The challenge of the hand**. Perhaps my employee knows something, but does not have what he needs to get it done. As an employer, it is my duty to equip my team with every tool their hands need.
+2. **The challenge of the hand**. Perhaps my employee knows what to do, but does not have what he needs to get it done. As an employer, it is my duty to equip my team with every tool their hands need.
 3. **The challenge of the heart** is another beast altogether. I can give training, and I can give tools, but I cannot make them care. I can reward, I can punish, I can plead, I can threaten, I can beg, I can fire and replace. But I cannot control the heart.
 
 He went on to say,
 
->I would rather hire someone who has a good heart and no qualifications, than to hire the technically qualified person who carries a stench into the operation with their rotten insides.
+>I would rather hire someone who has a good heart and no qualifications than to hire the technically qualified person who carries a stench into the operation.
 >**A hire with a terrible heart can destroy my entire operation**.
 
 ![The Polluting Heart](/website/assets/img/heartpollution.png)
 *The legacy of a person with a terrible heart is clouded with broken relationships, permanent instability, and perpetual sabotage. If your legacy begins to look like a villain's lair in some animated film with bears who care or colorful little ponies...then it's time to cultivate better untrainables.*
 
-It's amusing in light of this understanding to look at typical job advertisements and resumes alike that clearly haven't cultivated untrainables. They treat the state of the heart as if it were a mere afterthought with one word bullet points.
+It's amusing in light of this understanding to look at typical job advertisements and resumes alike that clearly haven't cultivated untrainables. They treat the state of the heart as if it were a mere afterthought with one-word bullet points.
 
 *Self-driven*
 
@@ -37,7 +37,7 @@ It's amusing in light of this understanding to look at typical job advertisement
 
 Bah.
 
-If you don't see significant value placed on the untrainables in a job advertisement, you're going to likely end up working with a lot of rotten coworkers.
+If you don't see significant value placed on the untrainables in a job advertisement, you're going to likely end up working with a lot of rotten co-workers.
 
 Why?
 
