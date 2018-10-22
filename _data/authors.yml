@@ -18,7 +18,7 @@ author1:
 
   # This photo will be used in the about section.
   picture:
-    path:            /assets/img/TalentCat.png
+    path:            /assets/img/TalentCatleft.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
   #  srcset:
   #    1x:            https://github.com/TheTalentCat/website/blob/gh-pages/assets/img/Talent%20Cat.jpeg
