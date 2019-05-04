@@ -1,12 +1,11 @@
 ---
 layout: post
 ---
-
 Untrainables are part of what make you unique. Emotional intelligence, soft skills, whatever you want to call it...untrainables are the part of you that no one can change.
 
 Except for maybe you.
 
-![Untrainables](/website/assets/img/untrainable.png)
+![Untrainables](/assets/img/untrainable.png)
 *Some untrainables are more desirable than others*
 
 I still recall a conversation from one of my wisest managers who put it like this.
@@ -20,9 +19,9 @@ There are three kinds of challenges.
 He went on to say,
 
 >I would rather hire someone who has a good heart and no qualifications than to hire the technically qualified person who carries a stench into the operation.
->**A hire with a terrible heart can destroy my entire operation**.
+>**A qualified hire with a terrible heart can destroy my entire operation**.
 
-![The Polluting Heart](/website/assets/img/heartpollution.png)
+![The Polluting Heart](/assets/img/heartpollution.png)
 *The legacy of a person with a terrible heart is clouded with broken relationships, permanent instability, and perpetual sabotage. If your legacy begins to look like a villain's lair in some animated film with bears who care or colorful little ponies...then it's time to cultivate better untrainables.*
 
 It's amusing in light of this understanding to look at typical job advertisements and resumes alike that clearly haven't cultivated untrainables. They treat the state of the heart as if it were a mere afterthought with one-word bullet points.
@@ -37,13 +36,7 @@ It's amusing in light of this understanding to look at typical job advertisement
 
 Bah.
 
-If you don't see significant value placed on the untrainables in a job advertisement, consider it a red flag. If you do get the job, you're going to likely end up working with a lot of rotten co-workers.
-
-Why?
-
-**Because you'll be working with people at a place where the untrainables don't matter to the folks in charge**.
-
-The companies with better work environments will spend effort to discuss what those untrainable skills should look like in action within their operation. If you want to be a living legend + work with amazing people to achieve meaningful impact on the world, then heed my call.
+The companies with better work environments will spend effort to discuss what those untrainable skills should look like in action within their operation. If you want to grow into a living legend...you will grow faster if you work with other amazing people to achieve meaningful impact on the world.
 
 **Sacrifice the parts of yourself that are mediocre until you are immensely desirable**. **Then raise similar standards for any company that you would be willing to apply for work**.
 
