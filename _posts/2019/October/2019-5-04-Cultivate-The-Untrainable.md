@@ -18,31 +18,21 @@ There are three kinds of challenges.
 
 He went on to say,
 
->I would rather hire someone who has a good heart and no qualifications than to hire the technically qualified person who carries a stench into the operation.
+>I would rather hire someone who has a good heart and no qualifications than to hire the technically qualified person with a bad attitude.
 >**A qualified hire with a terrible heart can destroy my entire operation**.
 
 ![The Polluting Heart](/assets/img/heartpollution.png)
-*The legacy of a person with a terrible heart is clouded with broken relationships, permanent instability, and perpetual sabotage. If your legacy begins to look like a villain's lair in some animated film with bears who care or colorful little ponies...then it's time to cultivate better untrainables.*
+*The legacy of a person with a terrible heart is clouded with broken relationships, permanent instability, and perpetual sabotage. But that doesn't have to be you. You were meant for greater things!*
 
-It's amusing in light of this understanding to look at typical job advertisements and resumes alike that clearly haven't cultivated untrainables. They treat the state of the heart as if it were a mere afterthought with one-word bullet points.
 
-*Self-driven*
+**Raise your standards for yourself, and then rise to meet them. Repeat until you are immensely desirable**.
+**Then raise similar standards for any company that you would be willing to work**.
 
-*Experienced*
-
-*Motivated*
-
-*Diligent*
-
-Bah.
-
-The companies with better work environments will spend effort to discuss what those untrainable skills should look like in action within their operation. If you want to grow into a living legend...you will grow faster if you work with other amazing people to achieve meaningful impact on the world.
-
-**Sacrifice the parts of yourself that are mediocre until you are immensely desirable**. **Then raise similar standards for any company that you would be willing to apply for work**.
+The companies with better work environments will spend effort to discuss what those untrainable skills should look like in action within their operation. If you want to grow into a living legend, seek those companies out. You will grow faster if you work with other amazing people to achieve meaningful impact on the world.
 
 Untrainable does not mean unattainable. Rather, the self-effort it takes to cultivate desirable untrainables means that such qualities are uncommon...often rare...potentially epic...and can make you legendary.
 
 Need inspiration on how to start? Let me point you towards two shining examples to imitate.
 
-1. A stellar client I previously worked with has [job advertisements](https://simprints.recruiterbox.com/) that beautifully target desirable untrainables.
-2. A friend of mine [shares his own personal journey to cultivate an untrainable](https://hunterhansen.net/2018/10/18/the-life-autistic-can-empathy-be-learned/?fbclid=IwAR10vg_xIi0qOd9lQQIQ6basUSsEB0UZnc1IFoUsM3hf_Rp8zkit6N0_PW4) which did not come naturally for him.
+1. A stellar client I previously worked with has [job advertisements](https://simprints.com/) on their careers page that beautifully target desirable untrainables.
+2. A friend of mine [shares his own personal journey to cultivate an untrainable skill](https://hunterhansen.net/2018/10/18/the-life-autistic-can-empathy-be-learned/?fbclid=IwAR10vg_xIi0qOd9lQQIQ6basUSsEB0UZnc1IFoUsM3hf_Rp8zkit6N0_PW4) which did not come naturally for him.
