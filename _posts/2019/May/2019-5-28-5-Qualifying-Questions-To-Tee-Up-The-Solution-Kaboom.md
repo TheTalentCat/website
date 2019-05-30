@@ -3,8 +3,6 @@ layout: post
 ---
 ![TheProfessionalKaboom](assets/img/WalkAwayFromExplosion.webp)
 
-*So you wanna be a professional who can setup the solution kaboom? Read on for the first in my series of articles on guiding your clients through the consultative solution process*
-
 Are you a problem-solving professional looking to differentiate yourself from the amateur, the mediocre, and the "good enough"? Qualification skills enable you to identify the heart of a matter so you can accomplish decisive action. Win with empathy! Add these five questions to your utility belt to deliver the professional solution.
 
 1. **What brought you to the point where you felt it was a good idea to get some help?**
