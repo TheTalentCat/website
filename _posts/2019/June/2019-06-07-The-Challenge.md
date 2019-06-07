@@ -6,7 +6,7 @@ So I got a new job. There's a story around it. Normally I don't put up the detai
 
 Before we go any further with the story, I'd like to offer you a challenge.
 
-Double your income in the next 5 years.
+**Double your income in the next 5 years.**
 
 Does that sound impossible? You'd be surprised what you can accomplish when you set a goal for yourself.
 
