@@ -6,6 +6,8 @@ So I got a new job. There's a story around it. Normally I don't put up the detai
 
 Before we go any further with the story, I'd like to offer you a challenge.
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/2yvoIFyZghBDszbIk3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/jeopardy-the-jeopardy-you-know-2yvoIFyZghBDszbIk3">via GIPHY</a></p>
+
 **Double your income in the next 5 years.**
 
 Does that sound impossible? You'd be surprised what you can accomplish when you set a goal for yourself.
