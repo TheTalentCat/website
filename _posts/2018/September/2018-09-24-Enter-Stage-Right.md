@@ -11,9 +11,9 @@ I am your friend who walks on the fence. My home lies betwixt two planes of exis
 
 I am a talent cat.
 
-Every day, I listen to HR professionals talk about their hiring woes, and advise them on the best path forward with what my company provides. As I have these conversations, I remember when I too first sought to carve out a place in this world. The journey from minimum wage to prosperity is by no means simple nor easy.
+Every day, I listen to HR professionals talk about their hiring woes, and advise them on the best path forward. As I have these conversations, I remember when I began to carve out my own career. The journey from minimum wage to prosperity is by no means simple nor easy.
 
-I know where I am, but where are you on that journey?
+Where are you on that journey?
 
 Wherever you are, whatever your skills, no matter your gifts or lack thereof, know this.
 
@@ -21,10 +21,8 @@ You can do it.
 
 So what does this mean for our relationship as I tap these words?
 
-It means our success is mutual. We are all together on a big rock hurtling ~67,000/mph (~107,000 km/h for you metric folks) through space and time. We have to share this rock. So let's work together to make the journey enjoyable for all.
+It means our success is mutual.
 
-Do your part. Read my words and voice your comments. Share your favorite works of mine. Together, we can make the world a better place.
+We are all together on a big rock hurtling ~67,000/mph (~107,000 km/h for you metric folks) through space and time.
 
-Ready for success? Or at the very least, something better?
-
-Time's up, let's go.
+We have to share this rock. Let's work together to make the journey better for all.

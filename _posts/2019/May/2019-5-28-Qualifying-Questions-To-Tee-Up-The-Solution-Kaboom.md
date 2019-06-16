@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-![](assets/img/WalkAwayFromExplosion.webp)
+![](/assets/img/WalkAwayFromExplosion.webp)
 
 Are you a problem-solving professional looking to differentiate yourself from the amateur, the mediocre, and the "good enough"? Qualification skills enable you to identify the heart of a matter so you can accomplish decisive action. Win with empathy! Add these five questions to your utility belt to deliver the professional solution.
 
