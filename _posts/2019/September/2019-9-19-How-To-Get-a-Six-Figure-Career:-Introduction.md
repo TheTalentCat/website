@@ -7,7 +7,7 @@ Maybe you've heard before how to get there.
 
 _The fastest way to make big money is to start your own business_.
 
-Does that make you queasy? Are you quick to point out that the other half of that coin is that starting your own business is also the _riskiest way_ to $100k? Do you despair that you're just not cut out for that kind of life?
+Does that make you queasy? Are you quick to point out that the other half of that coin is that starting your own business is also the _riskiest way_ to $100k? Do you despair that you're just not cut out for that 80 hour work week kind of life?
 
 I have good news! This guide isn't here to re-invent <a href="https://sweatystartup.com/">Sweaty Startup.</a> There's no shame to accept you're not cut out to be a business owner. It's ok to carve out a six figure income working for The Man™.
 
