@@ -5,10 +5,9 @@ If you're not making at least $100k/year, this article series is for you.
 
 Maybe you've heard before how to get there. _The fastest way to make big money is to start your own business_. Does that make you queasy? Are you quick to point out that the other half of that reality is that starting your own business is also the _riskiest way_ to $100k? Do you despair that you're just not cut out for that kind of life?
 
-If so, I have good news! This blog isn't here to re-invent <h href="https://sweatystartup.com/">Sweaty Startup</a>. There's no shame to accept you're not cut out to be a business owner. It's ok to carve out a six figure income while slaving away for The Man™.
+If so, I have good news! This blog isn't here to re-invent <a href="https://sweatystartup.com/">Sweaty Startup</a>. There's no shame to accept you're not cut out to be a business owner. It's ok to carve out a six figure income while slaving away for The Man™.
 
 <div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="http://theman.pt/wp-content/uploads/2016/05/themangif-1.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" allowFullScreen></iframe></div>
-
 The tradeoff for more predictable success is **less risk** but **more time**.
 
 Some folks veer hard to maximize predictability. They go and get a degree in a high demand field. They settle down with their prom sweetheart, have 2.5 kids, and move a few miles down the road from their parents into a nice home with a white picket fence. They don't ask questions. They do the same thing the same way at the same place for 40 years.
@@ -17,7 +16,7 @@ Does that path sound equally unappealing to you? _I wasn't that kind of cat eith
 
 Corporate executives of big dollar companies<a href="https://www.theatlantic.com/business/archive/2012/05/its-golden-parachute-season/328115/"> will desert you in a heartbeat </a> and pay themselves a bonus in the process! When recession comes, stability is a mirage.
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/l41lVeag0sl65q5AQ" width="100%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/l41lVeag0sl65q5AQ" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 
 I passed on both paths. Instead, I carved out the path of the talent cat. A path not as risky as the entrepreneur, but not as predictable as a corporate ladder.
