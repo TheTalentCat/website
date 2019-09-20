@@ -13,7 +13,7 @@ I have good news! This guide isn't here to re-invent <a href="https://sweatystar
 
 Many say the tradeoff for more predictable success is **less risk** but **more time**. Some folks veer hard to maximize predictability. They go and get a degree in a high demand field. They settle down with their prom sweetheart, have 2.5 kids, and move a few miles down the road from their parents into a nice home with a white picket fence. They don't ask questions. They do the same thing the same way at the same place for 40 years.
 
-_I wasn't that kind of cat either_.
+_Dunno about you, but I wasn't that kind of cat either_.
 
 I didn't know what I wanted to do with my life for a long time. I envied the confidence of those folks who had it all figured out, but I didn't envy how monotonous their path would be. And then when the <a href="https://en.wikipedia.org/wiki/Job_losses_caused_by_the_Great_Recession">bottom dropped out of the economy in 2007-2010</a> for many of those folks, it turns out their secure path had risks after all. Corporate executives of big dollar companies<a href="https://www.theatlantic.com/business/archive/2012/05/its-golden-parachute-season/328115/"> will desert you in a heartbeat</a> and pay themselves a bonus in the process!
 
