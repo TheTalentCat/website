@@ -9,7 +9,7 @@ _The fastest way to make big money is to start your own business_.
 
 Does that make you queasy? Are you quick to point out that the other half of that coin is that starting your own business is also the _riskiest way_ to $100k? Do you despair that you're just not cut out for that kind of life?
 
-I have good news! This blog isn't here to re-invent <a href="https://sweatystartup.com/">Sweaty Startup.</a> There's no shame to accept you're not cut out to be a business owner. It's ok to carve out a six figure income working for The Man™.
+I have good news! This guide isn't here to re-invent <a href="https://sweatystartup.com/">Sweaty Startup.</a> There's no shame to accept you're not cut out to be a business owner. It's ok to carve out a six figure income working for The Man™.
 
 <div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="http://theman.pt/wp-content/uploads/2016/05/themangif-1.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" allowFullScreen></iframe></div>
 Many say the tradeoff for more predictable success is **less risk** but **more time**.
