@@ -18,7 +18,9 @@ Some folks veer hard to maximize predictability. They go and get a degree in a h
 
 _I wasn't that kind of cat either_.
 
-I didn't know what I wanted to do with my life for a long time. I envied the confidence of those folks who had it all figured out, but I didn't envy how monotonous their path would be. And then when the <a href="https://en.wikipedia.org/wiki/Job_losses_caused_by_the_Great_Recession">bottom dropped out of the economy in 2007-2010</a> for many of those folks, it turns out their secure path had risks after all. Corporate executives of big dollar companies<a href="https://www.theatlantic.com/business/archive/2012/05/its-golden-parachute-season/328115/"> will desert you in a heartbeat</a> and pay themselves a bonus in the process! When recession comes, stability is a mirage.
+I didn't know what I wanted to do with my life for a long time. I envied the confidence of those folks who had it all figured out, but I didn't envy how monotonous their path would be. And then when the <a href="https://en.wikipedia.org/wiki/Job_losses_caused_by_the_Great_Recession">bottom dropped out of the economy in 2007-2010</a> for many of those folks, it turns out their secure path had risks after all. Corporate executives of big dollar companies<a href="https://www.theatlantic.com/business/archive/2012/05/its-golden-parachute-season/328115/"> will desert you in a heartbeat</a> and pay themselves a bonus in the process!
+
+When recession comes, your stability is a mirage.
 
 I passed on both paths. Instead, I carved out the path of the talent cat. A path not as risky as the entrepreneur, but not as predictable as a corporate ladder.
 
