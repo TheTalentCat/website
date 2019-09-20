@@ -11,10 +11,8 @@ Does that make you queasy? Are you quick to point out that the other half of tha
 
 I have good news! This guide isn't here to re-invent <a href="https://sweatystartup.com/">Sweaty Startup.</a> There's no shame to accept you're not cut out to be a business owner. It's ok to carve out a six figure income working for The Man™.
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="http://theman.pt/wp-content/uploads/2016/05/themangif-1.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" allowFullScreen></iframe></div>
-Many say the tradeoff for more predictable success is **less risk** but **more time**.
-
-Some folks veer hard to maximize predictability. They go and get a degree in a high demand field. They settle down with their prom sweetheart, have 2.5 kids, and move a few miles down the road from their parents into a nice home with a white picket fence. They don't ask questions. They do the same thing the same way at the same place for 40 years.
+<div style="width:100%;height:0;padding-bottom:85%;position:relative;"><iframe src="http://theman.pt/wp-content/uploads/2016/05/themangif-1.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" allowFullScreen></iframe></div>
+Many say the tradeoff for more predictable success is **less risk** but **more time**. Some folks veer hard to maximize predictability. They go and get a degree in a high demand field. They settle down with their prom sweetheart, have 2.5 kids, and move a few miles down the road from their parents into a nice home with a white picket fence. They don't ask questions. They do the same thing the same way at the same place for 40 years.
 
 _I wasn't that kind of cat either_.
 
