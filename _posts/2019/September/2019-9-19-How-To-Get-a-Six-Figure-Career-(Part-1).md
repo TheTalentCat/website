@@ -19,12 +19,10 @@ I didn't know what I wanted to do with my life for a long time. I envied the con
 
 When recession comes, your stability is a mirage.
 
-I passed on both paths. Instead, I carved out the path of the talent cat. A path not as risky as the entrepreneur, but not as predictable as a corporate ladder.
+I passed on both paths. Instead, I carved out the path of the talent cat. A path not as risky as the entrepreneur, but not as predictable as a corporate ladder. A path dedicated not to becoming rich, but to becoming a richer person.
 
-In the span of 10 years, <a href="http://thetalentcat.com/2019-06-07-The-Challenge/">I doubled my income twice.</a>
+Does it work? In the span of 10 years, <a href="http://thetalentcat.com/2019-06-07-The-Challenge/">I doubled my income twice.</a>
 
 <div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="https://giphy.com/embed/MkZRLZwPT0ZPy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/star-jake-story-MkZRLZwPT0ZPy">Yes. Yes it is.</a></p>
-
-**I'm living proof.**
 
 Want to do likewise? You can. Read on as I continue this series. I'm going to show you the path from start to success.
