@@ -3,7 +3,7 @@ layout: post
 ---
 ![](/assets/img/WalkAwayFromExplosion.webp)
 
-Are you a problem-solving professional looking to differentiate yourself from the amateur, the mediocre, and the "good enough"? Qualification skills enable you to identify the heart of a matter so you can accomplish decisive action. Win with empathy! Add these five questions to your utility belt to deliver the professional solution.
+Are you a problem-solving professional looking to differentiate yourself from the amateur, the mediocre, and the "good enough"? Qualification skills enable you to identify the heart of a matter so you can accomplish decisive action. Win with empathy! Blow it up with these five icebreakers.
 
 * **What brought you to the point where you felt it was a good idea to get some help?**
 
@@ -15,7 +15,9 @@ The professional gets their client talking not only to collect information but a
 
 * **What are your top 3 objectives you're looking to achieve?**
 
-The professional identifies not only the problems needing solved, but also how the priorities for the solution. The use of the number 3 adds power because it communicates to the client that you will not be satisfied with just one. The client is expected to talk at length, and talk they shall.
+The professional identifies not only the problems needing solved, but also the client's priorities for the solution. The use of the number 3 adds power because it communicates to the client that you will not be satisfied with just one. The additional context will clue you in on what the biggest wins for the client might be.
+
+For extra kaboom, pull the line with clarifying questions about how much those top problems are impacting their business today. Like magic, your client will start telling you how much your solution will mean to them. A client who discovers your ROI from their own mouth will be much more likely to move forward with your solution.
 
 * **What have you tried already to fix it before you came to me?**
 
