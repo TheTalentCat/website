@@ -15,7 +15,7 @@ Many say the tradeoff for more predictable success is **less risk** but **more t
 
 _Dunno about you, but I wasn't that kind of cat either_.
 
-I didn't know what I wanted to do with my life for a long time. I envied the confidence of those folks who had it all figured out, but I didn't envy how monotonous their path would be. And then when the <a href="https://en.wikipedia.org/wiki/Job_losses_caused_by_the_Great_Recession">bottom dropped out of the economy in 2007-2010</a> for many of those folks, it turns out their secure path had risks after all. Corporate executives of big dollar companies<a href="https://www.theatlantic.com/business/archive/2012/05/its-golden-parachute-season/328115/"> will desert you in a heartbeat</a> and pay themselves a bonus in the process!
+I didn't know what I wanted to do with my life for a long time. I envied the confidence of those folks who had it all figured out, but I didn't envy how monotonous their path would be. And then when the <a href="https://en.wikipedia.org/wiki/Job_losses_caused_by_the_Great_Recession">bottom dropped out of the economy in 2007-2010</a> for many of those folks, it turns out their secure path had risks after all. Corporate executives of big dollar companies<a href="https://www.theatlantic.com/business/archive/2012/05/its-golden-parachute-season/328115/"> will abandon you in a heartbeat</a>. And they will pay themselves a bonus in the process!
 
 When recession comes, your stability is a mirage.
 
