@@ -1,10 +1,7 @@
 ---
 layout: post
 ---
-
-So I got a new job. There's a story around it. Normally I don't put up the details of my life on the internet, but given the nature of this website it seems the story is worth sharing. So I'm going to tell you what I did, how I did it, and why.
-
-Before we go any further with the story, I'd like to offer you a challenge.
+I'd like to offer you a challenge.
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/2yvoIFyZghBDszbIk3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/jeopardy-the-jeopardy-you-know-2yvoIFyZghBDszbIk3">via GIPHY</a></p>
 
