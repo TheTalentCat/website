@@ -18,7 +18,7 @@ Here's my top 7.
 2. Frontload relevant value to catch my attention.
 3. No fluff. Get right to the point with confidence.
 4. Challenge my bad ideas with thoughtful insight.
-5. Be clear on known shortcomings of your solution.
+5. Be clear on known shortcomings of your pitch.
 6. Keep your pitch focused on my mission.
 7. Make your recommendation the obvious choice.
 
