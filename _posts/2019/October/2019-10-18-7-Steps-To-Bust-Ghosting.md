@@ -10,8 +10,6 @@ C-Suite folks aren't much different from anyone else except their stakes are hig
 
 It is naturally human to tune out noise. If you are being intentionally ghosted, it could be because they think you are noise.
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/FFISTo759LTVu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/loud-FFISTo759LTVu">stop it stop it stop it</a></p>
-
 Stop being noise. Make a list of how you would want to be approached if you were a C-Suite yourself.
 
 Here's my top 7.
