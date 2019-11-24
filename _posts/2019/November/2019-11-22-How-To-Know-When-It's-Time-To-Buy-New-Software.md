@@ -3,7 +3,7 @@ layout: post
 ---
 Do you ever get that nagging feeling that something's wrong in your business, but you're not sure what's wrong or how to fix it?
 
-Here's #HowTo tell if you could likely fix your problems with better software.
+Here's how to tell if you could likely fix your problems with better software.
 
 1. Your team isn't using the software you already have. Check if folks are using alternatives to bypass the software that's already in place.
 
