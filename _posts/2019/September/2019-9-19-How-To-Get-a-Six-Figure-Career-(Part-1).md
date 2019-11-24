@@ -1,6 +1,4 @@
----
-layout: post
----
+
 If you're not making at least $100k/year, this article series is for you.
 
 Maybe you've heard before how to get there.
