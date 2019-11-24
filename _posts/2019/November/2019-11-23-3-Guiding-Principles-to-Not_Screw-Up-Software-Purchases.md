@@ -13,7 +13,7 @@ Software is easy to use = won't do everything you want it to do
 
 Software does everything you want it to do = won't be the easiest to use
 
-Low price = sign of a booby trap with at least one of the following --> usability | functionality | scalability | security | support | permanence
+Low price = sign of a booby trap with at least one of the following > usability / functionality / scalability / security / support / permanence
 
 2. If the software isn't above a certain threshold for either usability or functionality, your users won't use it.
 
