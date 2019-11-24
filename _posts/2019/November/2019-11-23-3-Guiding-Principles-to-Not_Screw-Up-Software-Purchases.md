@@ -2,10 +2,9 @@
 layout: post
 ---
 
-3 Guiding Principles to Not Screw Up #SaaS #Software Purchases
-(3rd is in the comments)
+3 Guiding Principles to Not Screw Up Software Purchases
 
-1. Your fundamental goal is to buy an affordable solution that your team will actually use to meet your objectives.
+1) Your fundamental goal is to buy an affordable solution that your team will actually use to meet your objectives.
 
 Unfortunately, these three components often conflict.
 
@@ -15,7 +14,8 @@ Software does everything you want it to do = won't be the easiest to use
 
 Low price = sign of a booby trap with at least one of the following > usability / functionality / scalability / security / support / permanence
 
-2. If the software isn't above a certain threshold for either usability or functionality, your users won't use it.
+
+2) If the software isn't above a certain threshold for either usability or functionality, your users won't use it.
 
 If you fail here, your users WILL eventually bypass the system. Your business intelligence will end up scattered across sticky notes, paper file cabinets, email, spreadsheets, and rogue subscriptions to simpler tools.
 
@@ -23,7 +23,8 @@ When that happens, the trust is gone. Say goodbye to accurate reports and reliab
 
 All of the sticks you might use to coerce your users into compliance will fail, without fail. They will either hide the bypassing, or they will brush off their resume.
 
-3. All software purchase decisions should revolve around net ROI.
+
+3) All software purchase decisions should revolve around net ROI.
 
 Too many folks let the emotions of the part of the ROI they most care about sway them instead.
 
