@@ -16,9 +16,9 @@ It makes me very happy when I see people thriving because of my help.
 
 In my upcoming series on how to purchase software, I will hit every phase of the process.
 
-✅ How to know if you need a solution
-✅ How to research software solutions
-✅ How to screen software for the right fit
-✅ How to get your coworkers on board
-✅ How to negotiate the best price
-✅ How to deploy with success
+1. How to know if you need a solution
+2. How to research software solutions
+3. How to screen software for the right fit
+4. How to get your coworkers on board
+5. How to negotiate the best price
+6. How to deploy with success
