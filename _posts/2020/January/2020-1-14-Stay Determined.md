@@ -5,7 +5,7 @@ layout: post
 ![Determined](/assets/img/determined.png)
 
 
-*If you never give up, you'll eventually have a good time*
+*If you never give up, you'll eventually have a good time.*
 
 Have you ever looked at a task or project, and felt intimidated?
 
