@@ -26,7 +26,7 @@ Sometimes that suffering seems small. A lie here, a swept away fact there, a mis
 
 But little lies turn into big lies. Big lies turn into doctrine. Doctrine turns into group action. Group action powered by lies can result in catastrophic atrocities. Atrocities create divisions between people groups, interfering with the lives of every day people to the point where prejudice and mistrust reign supreme.
 
-![usvsthem](/assets/img/usvsthem.jpeg)
+![usvsthem](/assets/img/usvsthem.png)
 *The world as viewed by a partisan. It's silly, but they really do think this way*
 
 But you my reader, you are better than this. Please, please, be better than this. That path is for fools and scum. Partisanship is a betrayal of truth.
