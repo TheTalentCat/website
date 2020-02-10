@@ -2,7 +2,8 @@
 layout: post
 ---
 
-![RadicalCandor](/assets/img/radicalcandor.png)
+![usvsthem](/assets/img/usvsthem.png)
+*The world as viewed by a partisan. It's silly, but they really do think this way*
 
 The world is being pulled apart by different interests.
 
@@ -26,16 +27,14 @@ Sometimes that suffering seems small. A lie here, a swept away fact there, a mis
 
 But little lies turn into big lies. Big lies turn into doctrine. Doctrine turns into group action. Group action powered by lies can result in catastrophic atrocities. Atrocities create divisions between people groups, interfering with the lives of every day people to the point where prejudice and mistrust reign supreme.
 
-![usvsthem](/assets/img/usvsthem.png)
-*The world as viewed by a partisan. It's silly, but they really do think this way*
-
 But you my reader, you are better than this. Please, please, be better than this. That path is for fools and scum. Partisanship is a betrayal of truth.
 
 So what is the alternative?
 
 Radical candor.
 
-Radical candor is where truth IS your loving cause.
+![RadicalCandor](/assets/img/radicalcandor.png)
+*Radical candor is where truth IS your loving cause*
 
 You are not necessarily on team A or B, though you can root for a side. But at heart, you are a referee, calling out the good and the bad of all parties.
 
