@@ -7,7 +7,6 @@ layout: post
 ![DrawnAndRedrawn](/assets/img/DrawnAndRedrawn.jpg)
 
 *The essence of the independent mind lies not in what it thinks, but in how it thinks.*
-
 --Christopher Hitchens, Letters to a Young Contrarian
 
 
