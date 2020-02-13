@@ -12,9 +12,9 @@ _The essence of the independent mind lies not in what it thinks, but in how it t
 
 *Christopher Hitchens, Letters to a Young Contrarian*
 
-Everyone thinks, but not everyone thinks correctly. The above image is from a fun experiment -- the artist went back to redraw one of his old works. You might notice a difference between the two.
+Everyone thinks, but not everyone thinks correctly.
 
-I can't think of a better way to illustrate the thinking of a person who understands logic vs. someone who doesn't.
+The above image is from a fun experiment -- the artist went back to redraw one of his old works. You might notice a difference between the two. I can't think of a better way to illustrate the thinking of a person who understands logic vs. someone who doesn't.
 
 Logic is the process of placing thoughts in order. There are many ways to see logic in action.
 
