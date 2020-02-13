@@ -11,7 +11,7 @@ excerpt: "So you wanna be logical..."
 
 
 ![DrawnAndRedrawn](/assets/img/DrawnAndRedrawn.jpg)
-*source https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/*
+*credit to Miles https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/*
 
 “The essence of the independent mind lies not in what it thinks, but in how it thinks.”
 ― Christopher Hitchens, Letters to a Young Contrarian
@@ -28,7 +28,7 @@ The fool dishes out word salads when prompted to speak. The logical speak with c
 
 Think about how you think. Do you feel like you are logical?
 
-Whatever your answer, it doesn't matter. [People largely make their choices on emotion, not logic.](https://bigthink.com/experts-corner/decisions-are-emotional-not-logical-the-neuroscience-behind-decision-making). **Humans are NOT logical creatures**.
+Whatever your answer, it doesn't matter. [People largely make their choices on emotion, not logic](https://bigthink.com/experts-corner/decisions-are-emotional-not-logical-the-neuroscience-behind-decision-making). **Humans are NOT logical creatures**.
 
 This does not mean that logic is impossible. It does mean that being logical requires intentional choices that will go against the grain of your natural inclinations. When your gut feeling is wrong, logic will tell you why.
 
@@ -50,4 +50,4 @@ _You may find that applying logic to your life will take you into unsettling con
 
 Are you willing to accept the consequences of the pursuit of truth?
 
-You will come out better, but you will not the be the same._
+You will come out better, but you will not be the same._
