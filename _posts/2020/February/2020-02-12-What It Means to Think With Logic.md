@@ -32,7 +32,7 @@ This does not mean that logic is impossible. It does mean that being logical req
 
 Logic has a well defined structure. In the same way you can you can look at a sentence and pick out the nouns, verbs, and punctuation, you can typically know with 100% certainty if a thought or statement is logical.
 
-What does learning logic do for you? Why would anyone make the effort if it goes against what feels right?
+What does learning logic do for you? Why would anyone make the effort if it sometimes goes against what feels right?
 
 
 
