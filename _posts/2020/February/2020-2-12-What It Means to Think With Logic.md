@@ -11,7 +11,7 @@ excerpt: "So you wanna be logical..."
 
 
 ![DrawnAndRedrawn](/assets/img/DrawnAndRedrawn.jpg)
-*source artist: [Miles](https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/)*
+*source https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/*
 
 “The essence of the independent mind lies not in what it thinks, but in how it thinks.”
 ― Christopher Hitchens, Letters to a Young Contrarian
