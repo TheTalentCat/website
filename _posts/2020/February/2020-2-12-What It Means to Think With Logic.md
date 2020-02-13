@@ -1,15 +1,17 @@
 ---
 layout: post
 title:  What It Means to Think With Logic
-date:   2020-2-12 01:34:51 -0400
+date:   2020-02-12
 categories: jekyll social-media
 image: /assets/img/DrawnAndRedrawn.jpg
 vertical: Code
 excerpt: "So you wanna be logical..."
 ---
 
+
+
 ![DrawnAndRedrawn](/assets/img/DrawnAndRedrawn.jpg)
-*source artist: [Miles___](https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/)*
+*source artist: [Miles](https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/)*
 
 “The essence of the independent mind lies not in what it thinks, but in how it thinks.”
 ― Christopher Hitchens, Letters to a Young Contrarian
