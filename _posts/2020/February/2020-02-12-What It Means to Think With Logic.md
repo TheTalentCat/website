@@ -6,8 +6,9 @@ layout: post
 
 ![DrawnAndRedrawn](/assets/img/DrawnAndRedrawn.jpg)
 
-*The essence of the independent mind lies not in what it thinks, but in how it thinks.*
->--Christopher Hitchens, Letters to a Young Contrarian
+*photo credit to [Miles](https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/)*
+>The essence of the independent mind lies not in what it thinks, but in how it thinks.
+--Christopher Hitchens, Letters to a Young Contrarian
 
 
 Everyone thinks, but not everyone thinks correctly.
@@ -59,6 +60,3 @@ _**The study of logic may cause you to question aspects of your life that you ha
 Are you willing to accept the consequences of the pursuit of truth that logic demands?
 
 You will come out better, but you will not be the same.
-
-
-photo credit to [Miles](https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/)
