@@ -10,7 +10,7 @@ layout: post
 
 _The essence of the independent mind lies not in what it thinks, but in how it thinks._
 
-*Christopher Hitchens, Letters to a Young Contrarian*
+--Christopher Hitchens, Letters to a Young Contrarian
 
 Everyone thinks, but not everyone thinks correctly.
 
