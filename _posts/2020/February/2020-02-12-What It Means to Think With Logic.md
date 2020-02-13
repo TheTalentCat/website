@@ -57,4 +57,4 @@ Are you willing to accept the consequences of the pursuit of truth that logic de
 You will come out better, but you will not be the same.
 
 
-photo credit to [Miles](https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/)*
+photo credit to [Miles](https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/)
