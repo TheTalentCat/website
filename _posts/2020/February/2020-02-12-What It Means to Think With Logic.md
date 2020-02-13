@@ -45,4 +45,8 @@ Logic has a well defined structure. In the same way you can look at a sentence a
 
 Before we go deeper, be **forewarned**.
 
-_**You may find that applying logic to your own life will take you into unexpected realizations. The study of logic may cause you to question old assumptions that have been previously unexamined. You will come out better, but you will not be the same.**_
+_**You may find that applying logic to your own life will take you into unexpected realizations. The study of logic may cause you to question old assumptions that have been previously unexamined.**_
+
+If that ends up being you, don't panic.
+
+You will come out better, but you will not be the same.
