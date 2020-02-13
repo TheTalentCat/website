@@ -34,11 +34,15 @@ Logic has a well defined structure. In the same way you can you can look at a se
 
 What does learning logic do for you? Why would anyone make the effort if it goes against what feels right?
 
-1. Logic is a foundational discipline. Every craft and trade, from pottery to programming, uses logic extensively.
 
-2. Logic protects you from being misled. It cuts like a sword through cons, scams, and lies.
 
-3. Logic enables new levels of discovery and learning. You will see what others cannot, and gain new levels of confidence.
+1. **Logic is a foundational discipline.** Every craft and trade, from pottery to programming, uses logic extensively.
+
+2. **Logic protects you from being misled.** Logic cuts through cons, scams, and lies.
+
+3. **Logic enables new levels of discovery and learning.** You will see what others cannot, and gain new levels of confidence.
+
+
 
 Convinced? Great! Logic has persuaded you to undertake the study of, well, logic!
 
