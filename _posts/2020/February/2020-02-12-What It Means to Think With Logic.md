@@ -6,9 +6,7 @@ layout: post
 
 ![DrawnAndRedrawn](/assets/img/DrawnAndRedrawn.jpg)
 
-*The essence of the independent mind lies not in what it thinks, but in how it thinks.
-
--- Christopher Hitchens*
+*[The essence of the independent mind lies not in what it thinks, but in how it thinks.](https://www.goodreads.com/quotes/346391)*
 
 Everyone thinks, but not everyone thinks correctly.
 
@@ -43,9 +41,7 @@ Convinced? Great! Logic has persuaded you to undertake the study of, well, logic
 
 Logic has a well defined structure. In the same way you can look at a sentence and pick out the nouns, verbs, and punctuation, you can typically know with 100% certainty if a thought or statement is logical.
 
-Before we go deeper, be **forewarned**.
-
-_**You may find that applying logic to your own life will take you into unexpected realizations. The study of logic may cause you to question old assumptions that have been previously unexamined.**_
+Before we go deeper, be forewarned. You may find that applying logic to your own life will take you into unexpected realizations. The study of logic may cause you to question old assumptions that have been previously unexamined.
 
 If that ends up being you, don't panic.
 
