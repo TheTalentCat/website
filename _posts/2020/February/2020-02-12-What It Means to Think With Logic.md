@@ -1,11 +1,5 @@
 ---
 layout: post
-title:  What It Means to Think With Logic
-date:   2020-02-12
-categories: jekyll social-media
-image: /assets/img/DrawnAndRedrawn.jpg
-vertical: Code
-excerpt: "So you wanna be logical..."
 ---
 
 
