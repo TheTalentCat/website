@@ -9,6 +9,7 @@ layout: post
 *credit to [Miles](https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/)*
 
 _The essence of the independent mind lies not in what it thinks, but in how it thinks._
+
 *Christopher Hitchens, Letters to a Young Contrarian*
 
 Everyone thinks, but not everyone thinks correctly. The above image is from a fun experiment -- the artist went back to redraw one of his old works. You might notice a difference between the two.
