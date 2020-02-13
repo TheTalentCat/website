@@ -2,10 +2,10 @@
 layout: post
 title:  What It Means to Think With Logic
 date:   2020-2-12 01:34:51 -0400
-categories:
+categories: jekyll social-media
 image: /assets/img/DrawnAndRedrawn.jpg
 vertical: Code
-excerpt:
+excerpt: "So you wanna be logical..."
 ---
 
 ![DrawnAndRedrawn](/assets/img/DrawnAndRedrawn.jpg)
@@ -42,7 +42,7 @@ What does learning logic do for you? Why would anyone make the effort if it goes
 
 Convinced? Great! Logic has persuaded you to undertake the study of, well, logic!
 
-Before we go deeper, be forewarned. 
+Before we go deeper, be forewarned.
 
 _You may find that applying logic to your life will take you into unsettling conclusions. The study of logic may cause you to question aspects of your life that you had always assumed.
 
