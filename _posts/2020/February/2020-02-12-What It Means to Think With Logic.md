@@ -12,7 +12,7 @@ layout: post
 
 Everyone thinks, but not everyone thinks correctly.
 
-The above image is from a fun experiment -- the artist went back to redraw one of his old works. You might notice a difference between the two. I can't think of a better way to illustrate the thinking of a person who understands logic vs. someone who doesn't.
+The above image is from a fun experiment -- the artist went back to redraw one of his old works. You might notice a difference between the two. The comparison of _a person who understands logic vs. someone who doesn't_ can be just as drastic.
 
 Logic is the process of placing thoughts in order. There are many ways to see logic in action.
 
@@ -30,8 +30,6 @@ Humans are NOT logical creatures by default.
 
 This does not mean that logic is impossible. It does mean that being logical requires intentional choices that will go against the grain of your natural inclinations. When your gut feeling is wrong, logic will tell you why.
 
-Logic has a well defined structure. In the same way you can look at a sentence and pick out the nouns, verbs, and punctuation, you can typically know with 100% certainty if a thought or statement is logical.
-
 What does learning logic do for you? Why would anyone make the effort if it sometimes goes against what feels right?
 
 
@@ -45,6 +43,8 @@ What does learning logic do for you? Why would anyone make the effort if it some
 
 
 Convinced? Great! Logic has persuaded you to undertake the study of, well, logic!
+
+Logic has a well defined structure. In the same way you can look at a sentence and pick out the nouns, verbs, and punctuation, you can typically know with 100% certainty if a thought or statement is logical.
 
 Before we go deeper, be forewarned.
 
