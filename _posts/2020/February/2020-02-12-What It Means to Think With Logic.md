@@ -12,7 +12,7 @@ layout: post
 
 Everyone thinks, but not everyone thinks correctly.
 
-The above image is from a fun experiment -- the artist [Miles](https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/) went back at age 23 to redraw his self-portrait from when he was 13. You might notice a difference between the two. The comparison of _a person who understands logic vs. someone who doesn't_ can be just as drastic.
+The above image is from a fun experiment. The artist [Miles](https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/) went back at age 23 to redraw his self-portrait from when he was 13. You might notice a difference between the two. The comparison of _a person who understands logic vs. someone who doesn't_ can be just as drastic.
 
 Logic is the process of placing thoughts in order. There are many ways to see logic in action.
 
