@@ -14,7 +14,7 @@ The above image is from a fun experiment. The artist [Miles](https://www.reddit.
 
 Logic is the process of placing thoughts in order. There are many ways to see logic in action.
 
->The one who stacks their desk with papers vs. The one who files their papers
+>The one who stacks their desk with papers vs. The one who files their completed work.
 
 >The one who tackles tasks at random vs. The one who executes a step by step plan.
 
