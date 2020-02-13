@@ -16,11 +16,17 @@ The above image is from a fun experiment -- the artist went back to redraw one o
 
 Logic is the process of placing thoughts in order. There are many ways to see logic in action.
 
->-The fool stacks their papers on their desk. The logical file their papers away as they are processed.
+>The one who stacks their papers on their desk
+vs.
+The one who files their papers away as they are processed.
 
->-The fool tackles tasks at random. The logical execute a step by step plan.
+>The one who tackles tasks at random 
+vs.
+The one who executes a step by step plan.
 
->-The fool dishes out word salads when prompted to speak. The logical speak with clarity, direction, flow, and purpose.
+>The one who dishes out word salads when prompted to speak
+vs.
+The one who speaks with clarity, direction, flow, and purpose.
 
 Think about how you think. Do you feel like you are logical?
 
