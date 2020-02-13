@@ -10,8 +10,11 @@ excerpt: "So you wanna be logical..."
 
 
 
-“The essence of the independent mind lies not in what it thinks, but in how it thinks.”
-― Christopher Hitchens, Letters to a Young Contrarian
+![DrawnAndRedrawn](/assets/img/DrawnAndRedrawn.jpg)
+*credit to Miles https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/*
+
+_The essence of the independent mind lies not in what it thinks, but in how it thinks._
+*Christopher Hitchens, Letters to a Young Contrarian*
 
 Everyone thinks, but not everyone thinks correctly. The above image is from a fun experiment -- the artist went back to redraw one of his old works. You might notice a difference between the two.
 
@@ -25,7 +28,9 @@ The fool dishes out word salads when prompted to speak. The logical speak with c
 
 Think about how you think. Do you feel like you are logical?
 
-Whatever your answer, it doesn't matter. [People largely make their choices on emotion, not logic](https://bigthink.com/experts-corner/decisions-are-emotional-not-logical-the-neuroscience-behind-decision-making). **Humans are NOT logical creatures**.
+Whatever your answer, it doesn't matter. [People largely make their choices on emotion, not logic](https://bigthink.com/experts-corner/decisions-are-emotional-not-logical-the-neuroscience-behind-decision-making).
+
+Humans are NOT logical creatures.
 
 This does not mean that logic is impossible. It does mean that being logical requires intentional choices that will go against the grain of your natural inclinations. When your gut feeling is wrong, logic will tell you why.
 
@@ -43,8 +48,8 @@ Convinced? Great! Logic has persuaded you to undertake the study of, well, logic
 
 Before we go deeper, be forewarned.
 
-_You may find that applying logic to your life will take you into unsettling conclusions. The study of logic may cause you to question aspects of your life that you had always assumed.
+_You may find that applying logic to your life will take you into unsettling conclusions. The study of logic may cause you to question aspects of your life that you had always assumed._
 
-Are you willing to accept the consequences of the pursuit of truth?
+_Are you willing to accept the consequences of the pursuit of truth?_
 
-You will come out better, but you will not be the same._
+_You will come out better, but you will not be the same._
