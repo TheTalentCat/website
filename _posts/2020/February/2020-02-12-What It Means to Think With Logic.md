@@ -52,9 +52,9 @@ Logic has a well defined structure. In the same way you can look at a sentence a
 
 Before we go deeper, be forewarned.
 
-_You may find that applying logic to your life will take you into unsettling conclusions._
+_**You may find that applying logic to your life will take you into unsettling conclusions.**_
 
-_The study of logic may cause you to question aspects of your life that you had always assumed._
+_**The study of logic may cause you to question aspects of your life that you had always assumed.**_
 
 Are you willing to accept the consequences of the pursuit of truth that logic demands?
 
