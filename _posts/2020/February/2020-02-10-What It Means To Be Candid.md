@@ -1,15 +1,6 @@
 ---
 layout: post
-title:  What It Means To Be Candid
-date:   2020-10-29 
-categories: jekyll social-media
-image: /assets/img/usvsthem.png
-vertical: Code
-excerpt: "Thoughts on candor vs. partisanship"
 ---
-
-
-
 ![usvsthem](/assets/img/usvsthem.png)
 *The world as viewed by a partisan. It's silly, but they really do think this way*
 
