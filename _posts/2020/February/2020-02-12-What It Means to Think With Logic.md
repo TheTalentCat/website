@@ -26,7 +26,7 @@ Think about how you think. Do you feel like you are logical?
 
 Whatever your answer, it doesn't matter. [People largely make their choices on emotion, not logic](https://bigthink.com/experts-corner/decisions-are-emotional-not-logical-the-neuroscience-behind-decision-making).
 
-Humans are NOT logical creatures.
+Humans are NOT logical creatures by default.
 
 This does not mean that logic is impossible. It does mean that being logical requires intentional choices that will go against the grain of your natural inclinations. When your gut feeling is wrong, logic will tell you why.
 
