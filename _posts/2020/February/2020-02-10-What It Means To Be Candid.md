@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  
-date:   2015-10-29 01:34:51 -0400
+title:  What It Means To Be Candid
+date:   2020-10-29 
 categories: jekyll social-media
 image: /assets/img/usvsthem.png
 vertical: Code
