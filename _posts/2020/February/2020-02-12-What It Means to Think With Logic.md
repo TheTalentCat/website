@@ -6,7 +6,9 @@ layout: post
 
 ![DrawnAndRedrawn](/assets/img/DrawnAndRedrawn.jpg)
 
-*The essence of the independent mind lies not in what it thinks, but in how it thinks. -- Christopher Hitchens*
+*The essence of the independent mind lies not in what it thinks, but in how it thinks.
+
+-- Christopher Hitchens*
 
 Everyone thinks, but not everyone thinks correctly.
 
@@ -22,7 +24,7 @@ Logic is the process of placing thoughts in order. There are many ways to see lo
 
 Think about how you think. Do you feel like you are logical?
 
-Whatever your answer, it doesn't matter. [People largely make their choices on emotion, not logic.](https://bigthink.com/experts-corner/decisions-are-emotional-not-logical-the-neuroscience-behind-decision-making) Humans are NOT logical creatures by default.
+Whatever your answer, it doesn't matter. Humans are NOT logical creatures by default. [People largely make their choices on emotion, not logic.](https://bigthink.com/experts-corner/decisions-are-emotional-not-logical-the-neuroscience-behind-decision-making)
 
 This does not mean that logic is impossible. It does mean that being logical requires intentional choices that will go against the grain of your natural inclinations. When your gut feeling is wrong, logic will tell you why.
 
@@ -41,12 +43,6 @@ Convinced? Great! Logic has persuaded you to undertake the study of, well, logic
 
 Logic has a well defined structure. In the same way you can look at a sentence and pick out the nouns, verbs, and punctuation, you can typically know with 100% certainty if a thought or statement is logical.
 
-Before we go deeper, be forewarned.
+Before we go deeper, be **forewarned**.
 
-_**You may find that applying logic to your life will take you into unsettling conclusions.**_
-
-_**The study of logic may cause you to question aspects of your life that you had always assumed.**_
-
-Are you willing to accept the consequences of the pursuit of truth that logic demands?
-
-You will come out better, but you will not be the same.
+_**You may find that applying logic to your own life will take you into unexpected realizations. The study of logic may cause you to question old assumptions that have been previously unexamined. You will come out better, but you will not be the same.**_
