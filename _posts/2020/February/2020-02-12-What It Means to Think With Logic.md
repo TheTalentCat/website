@@ -14,11 +14,11 @@ The above image is from a fun experiment. The artist [Miles](https://www.reddit.
 
 Logic is the process of placing thoughts in order. There are many ways to see logic in action.
 
->The one who stacks their desk with papers vs. The one who files their completed work.
+>**The one who stacks their desk with papers** vs. **The one who files their completed work.**
 
->The one who tackles tasks at random vs. The one who executes a step by step plan.
+>**The one who tackles tasks at random** vs. **The one who executes a step by step plan.**
 
->The one who speaks in word salads vs. The one who speaks with clarity, flow, and purpose.
+>**The one who speaks in word salads** vs. **The one who speaks with clarity, flow, and purpose.**
 
 Think about how you think. Do you feel like you are logical?
 
@@ -26,7 +26,7 @@ Think about how you think. Do you feel like you are logical?
 
 .
 
-Perhaps you said yes? 
+Perhaps you said yes?
 
 Careful. Humans are NOT logical creatures by default. [People largely make their choices on emotion, not logic.](https://bigthink.com/experts-corner/decisions-are-emotional-not-logical-the-neuroscience-behind-decision-making)
 
