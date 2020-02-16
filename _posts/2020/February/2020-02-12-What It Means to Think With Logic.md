@@ -8,23 +8,27 @@ layout: post
 
 *[The essence of the independent mind lies not in what it thinks, but in how it thinks.](https://www.goodreads.com/quotes/346391)*
 
-###Everyone thinks, but not everyone thinks correctly.
+#### Everyone thinks, but not everyone thinks correctly.
 
 The above image is from a fun experiment. The artist [Miles](https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/) went back at age 23 to redraw his self-portrait from when he was 13. You might notice a difference between the two. The comparison of _someone untrained in logic vs. an expert_ can be just as drastic.
 
 It's not that there's no logic in how the artist produced the first picture. You can see the picture is of a person, with appropriately placed facial features. There's even a little shadowing to draw distinction in the face. No question, it's a human face all right. All the basics are there.
 
-But that second picture though. It's downright photo-realistic! You could slap that on the side of a milk carton and find this guy in a week.
+And yet, you'd never for a second be fooled that it is anything more than a poor facsimile of a person. No offense, Miles, but that pic's about as skillfully put together as the average Youtube comment.
+
+![dumbyoutubecomment](/assets/img/dumbyoutubecomment.png)
+
+But that second picture though. Miles. My man. It's downright photo-realistic! We could slap that on the side of a milk carton and find you in a hot minute!
 
 ![MilkMissing2ndpic](/assets/img/MilkMissing2ndpic.png)
 
-*Missing: Maverick "Miles" McDewd. Artist, extraordinaire, and an all around cool guy.*
+*Missing: Maverick "Miles" McDewd. Artist, extraordinaire, and an all around cool (some would say hot) guy.*
 
-As you master logic, you'll find the skill translates into other skills. You begin to see the lines that others miss. Opportunities make themselves known.
+As you master logic, the grammar of decision making becomes known to you, just like Miles mastered the artistry of the self-portrait. In a drawing of this caliber, there are all kinds of techniques applied that teenage Miles never even knew to use. Hatching. Cross-hatching. Stippling. Fixatives. Blending. Texturing. Light source placement. Negative space management. I'm sure adult Miles could list more.
 
-The difference is a matter of skill in how the artist goes about his creation. The same basic logic is there, but it's been taken to new levels. The step by step process is far more intricate and well thought out.
+In the same way, logic has its own techniques. Just like Miles' teenage skills produced a picture that can pass for a person, untrained logic can get you by in life. But you will endeavor with a lot of trial and error as you "reinvent wheels" others already discovered long ago. Wouldn't it be great to know what those logic techniques are by name, how they work, and when they are appropriate to be used? You'll honestly be able to say you know what you're doing, and why.
 
-
+#### So what is logic?
 
 Logic is the process of placing thoughts in order. There are many ways to see logic in action.
 
