@@ -62,7 +62,7 @@ This does not mean that logic is impossible. It does mean that being logical req
 
 A byproduct of studying logic is that you might sometimes look back in hindsight at past mistakes, and facepalm. You'll start to realize and perhaps regret those times where you didn't realize you proverbially threw a grenade before pulling the pin.
 
-![monkeysniff](assets/img/monkeysniff.gif)
+![monkeysniff](/assets/img/monkeysniff.gif)
 
 Self-discovery is inevitable when you grow your thinking. Let it run its course, but don't let it consume you.
 
