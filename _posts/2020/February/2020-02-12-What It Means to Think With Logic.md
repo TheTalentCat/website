@@ -60,7 +60,7 @@ This does not mean that logic is impossible. It does mean that being logical req
 
 3. **Logic enables new levels of discovery and learning.** You will see what others cannot, and gain new levels of confidence.
 
-A byproduct of studying logic is that you might sometimes look back in hindsight at past mistakes, and facepalm. You'll start to realize and perhaps regret those times where you didn't realize you proverbially threw a grenade before pulling the pin.
+#### A byproduct of studying logic is that you might sometimes look back in hindsight at past mistakes, and facepalm. You'll start to recognize and perhaps regret those times where you didn't realize you proverbially threw a grenade before pulling the pin.
 
 ![monkeysniff](/assets/img/monkeysniff.gif)
 
