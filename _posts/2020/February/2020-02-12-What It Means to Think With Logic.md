@@ -18,19 +18,19 @@ And yet, you'd never for a second be fooled that it is anything more than a poor
 
 ![dumbyoutubecomment](/assets/img/dumbyoutubecomment.png)
 
-*The Talent Cat™️ is not responsible for any of your brain cells that may have committed suicide upon reading this YouTube comment*
+*The Talent Cat™️ is not responsible for brain cells that may have committed suicide upon reading this YouTube comment.*
 
 But that second picture though. Miles. My man. It's downright photo-realistic! We could slap that on the side of a milk carton and find you in a hot minute!
 
 ![MilkMissing2ndpic](/assets/img/MilkMissing2ndpic.png)
 
-*Missing: Maverick "Miles" McDewd. Artist, extraordinaire, and an all around cool (some would say hot) guy.*
+*Missing: Maverick "Miles" McDewd. Artist, extraordinaire, cool guy, and dedicated lover.*
 
 As you master logic, the grammar of decision making becomes known to you, just like Miles mastered the artistry of the self-portrait. In a drawing of this caliber, there are all kinds of techniques applied that teenage Miles never even knew to use. Hatching. Cross-hatching. Stippling. Fixatives. Blending. Texturing. Light source placement. Negative space management. I'm sure adult Miles could list more.
 
-In the same way, logic has its own techniques. Just like Miles' teenage skills produced a picture that can pass for a person, untrained logic can get you by in life. But you will endeavor with a lot of trial and error as you "reinvent wheels" others already discovered long ago. Wouldn't it be great to know what those logic techniques are by name, how they work, and when they are appropriate to use? If you do, you'll honestly be able to say you know what you're doing, and why.
+In the same way, logic has its own techniques. Just like Miles' teenage skills produced a picture that can pass for a person, untrained logic can get you by in life. But you will endeavor with a lot of trial and error as you "reinvent wheels" others already discovered long ago. Wouldn't it be great to know what those logic techniques are by name, how they work, and when they are appropriate to use? If you do, you'll honestly be able to say you know what you're doing, and why. Plus, you'll be ahead of the curve of other folks who are squandering themselves in traps such as arguing politics on Facebook.
 
-_You won't just feel like you are logical, you'll be able to prove it beyond a shadow of a doubt. And if you can prove it, you can live it with confidence._
+_You won't just feel like you are logical, you'll be able to prove it beyond a shadow of a doubt. And if you can prove it, you can live it with excellence._
 
 #### So what is logic?
 
@@ -46,7 +46,7 @@ The irony of our human condition is that humans are NOT logical creatures by def
 
 This does not mean that logic is impossible. It does mean that being logical requires intentional choices that will sometimes go against the grain of your natural inclinations. You don't get to the caliber of the adult picture easily if you're just making it up as you go on instinct.
 
-What does learning logic do for you?
+#### Ok, fair. So what good is logic?
 
 1. **Logic is a foundational discipline.** Every craft and trade, from pottery to programming, uses logic extensively.
 
@@ -54,13 +54,20 @@ What does learning logic do for you?
 
 3. **Logic enables new levels of discovery and learning.** You will see what others cannot, and gain new levels of confidence.
 
+A byproduct of studying logic is that you might sometimes look back in hindsight at past mistakes, and facepalm. You'll start to realize and perhaps regret those times where you didn't realize you proverbially threw a grenade before pulling the pin.
 
-Convinced? Great! Logic has persuaded you to undertake the study of, well, logic!
+![monkeysniff](assets/img/monkeysniff.gif)
 
-Logic has a well defined structure. In the same way you can look at a sentence and pick out the nouns, verbs, and punctuation, you can typically know with 100% certainty if a thought or statement is logical.
+Self-discovery is inevitable when you grow your thinking. Let it run its course, but don't let it consume you.
 
-Before we go deeper, be forewarned. You may find that applying logic to your own life will take you into unexpected realizations. The study of logic may cause you to question old assumptions that have been previously unexamined.
+Don't panic.
 
-If that ends up being you, don't panic.
+We've all screwed up from time to time.
+
+Learn from it.
+
+Move on.
 
 You will come out better, but you will not be the same.
+
+And that's a good thing.
