@@ -30,7 +30,7 @@ It's downright photo-realistic! We could slap that on the side of a milk carton 
 
 ![MilkMissing2ndpic](/assets/img/MilkMissing2ndpic.png)
 
-*Missing: Maverick "Miles" McDewd. Artist, extraordinaire, cool guy, and dedicated lover.*
+*Missing: Maverick "Miles" McDewd. Artist extraordinaire, cool guy, and dedicated lover.*
 
 As you master logic, the grammar of decision making becomes known to you, just like Miles mastered the artistry of the self-portrait. In a drawing of this caliber, there are all kinds of techniques applied that teenage Miles never even knew to use. Hatching. Cross-hatching. Stippling. Fixatives. Blending. Texturing. Light source placement. Negative space management. I'm sure adult Miles could list more.
 
