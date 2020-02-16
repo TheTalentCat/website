@@ -8,9 +8,23 @@ layout: post
 
 *[The essence of the independent mind lies not in what it thinks, but in how it thinks.](https://www.goodreads.com/quotes/346391)*
 
-Everyone thinks, but not everyone thinks correctly.
+###Everyone thinks, but not everyone thinks correctly.
 
-The above image is from a fun experiment. The artist [Miles](https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/) went back at age 23 to redraw his self-portrait from when he was 13. You might notice a difference between the two. The comparison of _a person who understands logic vs. someone who doesn't_ can be just as drastic.
+The above image is from a fun experiment. The artist [Miles](https://www.reddit.com/r/pics/comments/5j0eyq/two_self_portraits_i_drew_from_a_mirror_10_years/) went back at age 23 to redraw his self-portrait from when he was 13. You might notice a difference between the two. The comparison of _someone untrained in logic vs. an expert_ can be just as drastic.
+
+It's not that there's no logic in how the artist produced the first picture. You can see the picture is of a person, with appropriately placed facial features. There's even a little shadowing to draw distinction in the face. No question, it's a human face all right. All the basics are there.
+
+But that second picture though. It's downright photo-realistic! You could slap that on the side of a milk carton and find this guy in a week.
+
+![MilkMissing2ndpic](/assets/img/MilkMissing2ndpic.png)
+
+*Missing: Maverick "Miles" McDewd. Artist, extraordinaire, and an all around cool guy.*
+
+As you master logic, you'll find the skill translates into other skills. You begin to see the lines that others miss. Opportunities make themselves known.
+
+The difference is a matter of skill in how the artist goes about his creation. The same basic logic is there, but it's been taken to new levels. The step by step process is far more intricate and well thought out.
+
+
 
 Logic is the process of placing thoughts in order. There are many ways to see logic in action.
 
@@ -32,7 +46,7 @@ Careful. Humans are NOT logical creatures by default. [People largely make their
 
 This does not mean that logic is impossible. It does mean that being logical requires intentional choices that will go against the grain of your natural inclinations. When your gut feeling is wrong, logic will tell you why.
 
-What does learning logic do for you? Why would anyone make the effort if it sometimes goes against what feels right?
+What does learning logic do for you?
 
 
 
