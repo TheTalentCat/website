@@ -18,9 +18,15 @@ And yet, you'd never for a second be fooled that it is anything more than a poor
 
 ![dumbyoutubecomment](/assets/img/dumbyoutubecomment.png)
 
-*The Talent Cat™️ is not responsible for brain cells that may have committed suicide upon reading this YouTube comment.*
+*The Talent Cat™️ is not responsible for brain cells that commit suicide upon reading this YouTube comment.*
 
-But that second picture though. Miles. My man. It's downright photo-realistic! We could slap that on the side of a milk carton and find you in a hot minute!
+##### But that second picture though.
+
+Miles.
+
+My man.
+
+It's downright photo-realistic! We could slap that on the side of a milk carton and find you in a hot minute!
 
 ![MilkMissing2ndpic](/assets/img/MilkMissing2ndpic.png)
 
