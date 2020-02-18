@@ -62,13 +62,19 @@ There's loads of benefits, but I'll start with three.
 
 3. **Logic enables new levels of discovery and learning.** You will see what others cannot, and gain new levels of confidence.
 
-#### A byproduct of studying logic is that you might sometimes look back in hindsight at past mistakes, and facepalm. You'll start to recognize and regret those times where you thought you were [DESTROYING YOUR ENEMIES WITH LOGIC](/assets/img/nukehurricanes.jpg) when really [you were just the pigeon all along](/assets/img/pigeonmeme.jpg).
+#### When you learn how to properly put your thoughts in order, you'll more likely foresee the consequences of your actions.
 
-When you learn how to properly put your thoughts in order, you'll more likely foresee the consequences of your actions.
+Of course, if you'd rather do what comes naturally, like this chimp, don't let me stop you.
 
 ![monkeysniff](/assets/img/monkeysniff.gif)
 
-Self-discovery is inevitable when you grow your thinking. Let it run its course, but don't let it consume you.
+On the other, less smelly hand, maybe you're ready to learn a higher way than what comes natural.
+
+A byproduct of studying logic is that you might sometimes look back in hindsight at past mistakes, and facepalm. You'll start to recognize and regret those times where you thought you were [DESTROYING YOUR ENEMIES WITH LOGIC](/assets/img/nukehurricanes.jpg) when really [you were just the pigeon all along](/assets/img/pigeonmeme.jpg).
+
+Self-discovery is inevitable when you grow your thinking.
+
+Let it run its course.
 
 Don't panic.
 
