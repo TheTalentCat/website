@@ -62,7 +62,7 @@ There's loads of benefits, but I'll start with three.
 
 3. **Logic enables new levels of discovery and learning.** You will see what others cannot, and gain new levels of confidence.
 
-#### When you learn how to properly put your thoughts in order, you'll more likely foresee the consequences of your actions.
+#### When you learn how to properly put your thoughts in order, you'll more likely foresee consequences.
 
 Of course, if you'd rather do what comes naturally, like this chimp, don't let me stop you.
 
