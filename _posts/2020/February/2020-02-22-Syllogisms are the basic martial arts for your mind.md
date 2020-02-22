@@ -35,7 +35,7 @@ So what is a syllogism?
 
 I know what you're thinking.
 
-"Dude...I just came for the logic kung fu so I can start trashing bozos over politics on Facebook. Are we there yet?""
+"Dude...I just came for the logic kung fu so I can start trashing bozos over politics on Facebook. Are we there yet?"
 
 No, we're not there yet.
 
@@ -74,7 +74,7 @@ Just so you know, the MT and the Conk don't hang out.
 
 Here's an example of a syllogism.
 
-**Bananas are healthy food. Many people love bananas. Therefore, many people love some healthy food**
+**Bananas are healthy food. Many people love bananas. Therefore, many people love some healthy food.**
 
 >
 - PP = Bananas (MT) are healthy food.
@@ -130,7 +130,7 @@ I came up with my own list below. Maybe you can add your own.
 
 - Commercials trying to sell a product.
 - Politicians making a promise to get elected.
-- Preachers in the pulpit teaching a doctrine to shape their community.
+- Preachers in the pulpit teaching a doctrine to declare the will of God for their community.
 - Teachers in the schools covering a lesson plan to mold their students.
 - Internet blogs pushing an agenda to shape opinions.
 - Social media comments trolling to make you angry.
