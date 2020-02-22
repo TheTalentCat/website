@@ -99,7 +99,7 @@ For example, maybe two karate guys are fighting in a tournament, and hard face b
 
 Here are six rules for how to tell.
 
-Every syllogism...
+#### **Every syllogism...**
 
 1. Must have exactly three categorical terms.
 2. Must use the MT correctly.
@@ -137,7 +137,7 @@ I came up with my own list below. Maybe you can add your own.
 - Funny memes subtly circulating disinformation online to fool you with fake news.
 - News articles with sensational headlines racking up clicks for ad revenue.
 
-Today in the (Mis)Information Age we live in, everyone is trying to sell you on some product, idea, or belief. If you don't know the rules of logic, how can you confidently assess what is true, and what is deception?
+Today in the (Mis)Information Age we live in, everyone is trying to sell you on some product, idea, or belief. If you don't know the rules of logic, how can you confidently assess what is true, and what is a lie?
 
 Do you want to defend yourself from deception? Discern error? Fight for truth? Trash political bozos on Facebook?
 
