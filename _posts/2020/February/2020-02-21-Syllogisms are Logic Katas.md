@@ -39,7 +39,7 @@ I know what you're thinking.
 
 No, we're not there yet.
 
-You gotta crawl before you walk. You gotta walk before you can trash bozos. Trust me, I'm saving you a lot of mistakes, my friend.
+You gotta crawl before you walk. You gotta walk before you can trash bozos. Trust me, I'm saving you from a lot of mistakes, my friend.
 
 Stay with me here. I'm about to teach you your first logic attack. **The premise**.
 
@@ -63,10 +63,10 @@ We're gonna use some of these terms a lot down the road, so I'll start abbreviat
 
 ![conk](/assets/img/conk.gif)
 
-When we form a syllogism, we use two different premises in order to form a Conk.
+#### When we form a syllogism, we use two different premises in order to form a Conk.
 
-Minor premise (ps) -- A proposition with the subject of the conclusion.
-Major premise (PP)-- A proposition with the predicate of the conclusion.
+- Minor premise (ps) -- A proposition with the subject of the conclusion.
+- Major premise (PP)-- A proposition with the predicate of the conclusion.
 
 Both premises will share a common middle term (MT), which is how they hold hands. Or spar. However you wanna look at it.
 
@@ -74,24 +74,24 @@ Just so you know, the MT and the Conk don't hang out.
 
 Here's an example of a syllogism.
 
-Video games are cool. Many people love video games. Therefore, many people love some things that are cool.
+**Bananas are healthy food. Many people love bananas. Therefore, many people love some healthy foods**
 
 >
-- PP = Video games(MT) are cool.
-- ps = Many people love video games(MT).
-- Conk = Therefore, many people love some things that are cool.
+- PP = Bananas (MT) are healthy food.
+- ps = Many people love bananas(MT).
+- Conk = Therefore, many people love some healthy foods.
 
-Pretty simple, right? When you look at a perfectly constructed Syllogism, like this one, we can say that it is a valid syllogism.
+Pretty simple, right? When you look at a perfectly constructed syllogism, like this one, we can say that it is a valid syllogism.
 
 However, it's very easy for a syllogism to be invalid.
 
-First, maybe the common sense is wrong.
+**First, maybe the common sense is wrong.**
 
 Here's an example.
 
 ![penguinlogic](/assets/img/PenguinLogic.jpg)
 
-#### Sometimes, the common sense of the syllogism seems to be okay, but maybe the construction itself is wrong.
+#### Sometimes, the common sense of the syllogism seems to be okay, but **maybe the construction itself is wrong.**
 
 For example, maybe two karate guys are fighting in a tournament, and hard face blows are illegal. If one guy kicks the other guy in the face as hard as he can, it doesn't matter what happens after that. Even if he continues through the motions of beating his opponent, he's already lost, because he KICKED THE OTHER GUY IN THE FACE AND SHOULD BE DISQUALIFIED.
 
