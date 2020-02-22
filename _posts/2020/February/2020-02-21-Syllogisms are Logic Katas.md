@@ -24,10 +24,16 @@ And stuff that just plain looks cool.
 
 ![bottlekick](/assets/img/bottlekick.gif)
 
-While katas are truly a sight to behold, at a second glance you might realize they seem to be kinda useless. Let's face it, the guy triple-kicking the boards sure looks slick, but it's highly unlikely he's gonna get a chance to kick three heads perfectly lined up like that.
-
 Logic has its own kind of kata. We call them syllogisms.
 
 So what is a syllogism?
 
->A syllogism is a deductive scheme of a formal argument consisting of a major and a minor premise and a conclusion.
+>A syllogism is a deduction in the form of a formal argument. It contains three parts.
+1. A minor premise
+2. A major premise
+3. A conclusion
+
+
+
+
+While katas are truly a sight to behold, at a second glance you might realize they seem to be kinda useless. Let's face it, the guy triple-kicking the boards sure looks slick, but it's highly unlikely he's gonna get a chance to kick three heads perfectly lined up like that.
