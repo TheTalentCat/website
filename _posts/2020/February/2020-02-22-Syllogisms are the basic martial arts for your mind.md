@@ -100,7 +100,7 @@ For example, maybe two karate guys are fighting in a tournament, and hard face b
 Here are six rules for how to tell.
 
 #### **Every syllogism...**
-
+>
 1. Must have exactly three categorical terms.
 2. Must use the MT correctly.
 3. Must have a conk that uses the terms from the PP and ps correctly.
