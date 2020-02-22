@@ -74,12 +74,12 @@ Just so you know, the MT and the Conk don't hang out.
 
 Here's an example of a syllogism.
 
-**Bananas are healthy food. Many people love bananas. Therefore, many people love some healthy foods**
+**Bananas are healthy food. Many people love bananas. Therefore, many people love some healthy food**
 
 >
 - PP = Bananas (MT) are healthy food.
 - ps = Many people love bananas(MT).
-- Conk = Therefore, many people love some healthy foods.
+- Conk = Therefore, many people love some healthy food.
 
 Pretty simple, right? When you look at a perfectly constructed syllogism, like this one, we can say that it is a valid syllogism.
 
