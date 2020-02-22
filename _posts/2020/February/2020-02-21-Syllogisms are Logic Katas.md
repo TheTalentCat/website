@@ -26,7 +26,7 @@ And stuff that just plain looks cool.
 
 Logic has its own kind of kata. We call them syllogisms.
 
-So what is a syllogism?
+#### So what is a syllogism?
 
 >A syllogism is a deduction in the form of a formal argument. It contains three parts.
 1. A minor premise
@@ -43,7 +43,7 @@ You gotta crawl before you walk. You gotta walk before you can trash bozos. Trus
 
 Stay with me here. I'm about to teach you your first logic punch.
 
-So what's a premise?
+#### So what's a premise?
 
 A premise is a proposition that we assume to be true in our syllogism. Here's some examples.
 
