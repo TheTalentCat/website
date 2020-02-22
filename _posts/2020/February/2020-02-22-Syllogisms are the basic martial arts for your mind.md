@@ -91,7 +91,7 @@ Here's an example.
 
 ![penguinlogic](/assets/img/PenguinLogic.jpg)
 
-#### Sometimes, the common sense of the syllogism seems to be okay, but **maybe the construction itself is wrong.**
+#### Second, sometimes the common sense of the syllogism seems to be okay, but **maybe the construction itself is wrong.**
 
 For example, maybe two karate guys are fighting in a tournament, and hard face blows are illegal. If one guy kicks the other guy in the face as hard as he can, it doesn't matter what happens after that. Even if he continues through the motions of beating his opponent, he's already lost, because he KICKED THE OTHER GUY IN THE FACE AND SHOULD BE DISQUALIFIED.
 
