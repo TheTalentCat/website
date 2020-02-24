@@ -16,11 +16,11 @@ Furious flurries of fists and feet.
 
 ![chunlikicks](/assets/img/chunlikicks.gif)
 
-Humorous, drunken-like staggering that deceives one into vulnerable ease.
+Drunken staggering that suckers an opponent into a suprised stupor.
 
 ![drunkenmaster](/assets/img/drunkenmaster.gif)
 
-And stuff that just plain looks cool.
+And moves that just plain look cool.
 
 ![bottlekick](/assets/img/bottlekick.gif)
 
@@ -87,7 +87,7 @@ However, it's very easy for a syllogism to be invalid.
 
 **First, maybe the common sense is wrong.**
 
-Here's an example.
+Like this penguin.
 
 ![penguinlogic](/assets/img/PenguinLogic.jpg)
 
@@ -112,35 +112,12 @@ Don't stress too much on these for now. We'll cross those bridges when we get th
 
 So there you have it. Your syllogisms are your katas in logic. If you get your katas right, you can say that you are being logical. As you get used to them, you'll start seeing them in your every day conversation. They've always been there. You've been using them all this time and never knew it!
 
-But is that all there is to it?
+Don't get cocky. You've only taken your first step my friend.
 
-You've only taken your first step my friend.
-
-While katas are truly a sight to behold, they might seem kind of useless in your every day life. Let's face it, the guy triple-kicking the boards sure looks slick, but it's highly unlikely that in a bar room brawl he's gonna get a chance to kick three heads perfectly lined up like that.
-
-Likewise, amateurs and skeptics of logic dismiss syllogisms as being these dry, dusty things that are better off left on the shelf.
-
-How do we respond to that criticism?
-
-Well, they have a point in that every day conversation likely doesn't need much depth of logical scrutiny.
-
-Take a deeper look. Where do you encounter syllogisms in your daily life?
-
-I came up with my own list below. Maybe you can add your own.
-
-- Commercials trying to sell a product.
-- Politicians making a promise to get elected.
-- Preachers in the pulpit teaching a doctrine to declare the will of God for their community.
-- Teachers in the schools covering a lesson plan to mold their students.
-- Internet blogs pushing an agenda to shape opinions.
-- Social media comments trolling to make you angry.
-- Funny memes subtly circulating disinformation online to fool you with fake news.
-- News articles with sensational headlines racking up clicks for ad revenue.
-
-Today in the (Mis)Information Age we live in, everyone is trying to sell you on some product, idea, or belief. If you don't know the rules of logic, how can you confidently assess what is true, and what is a lie?
+There's battles going on all around you. Wars of ideas. Campaigns of persuasion. Struggles to claim your heart, soul, and wallet. Some are good, and some are good at swindling you.
 
 Do you want to defend yourself from deception? Discern error? Fight for truth? Trash political bozos on Facebook?
 
 Learn the katas. Master the syllogism. Take a step into a much larger world that has always been there around you.
 
-You might be amazed at what conversational triple kicks you'll be able to pull off someday.
+You might be amazed at what conversational triple kicks you'll pull off someday.
