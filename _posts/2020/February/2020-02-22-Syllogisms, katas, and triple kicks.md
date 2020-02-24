@@ -68,7 +68,7 @@ We're gonna use some of these terms a lot down the road, so I'll start abbreviat
 - Minor premise (ps) -- A proposition with the subject of the conclusion.
 - Major premise (PP)-- A proposition with the predicate of the conclusion.
 
-Both premises will share a common middle term (MT), which is how they hold hands. Or spar. However you wanna look at it.
+Both premises will share a common middle term (MT). Think of the MT as their mutual friend in the middle.
 
 Just so you know, the MT and the Conk don't hang out.
 
