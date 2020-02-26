@@ -6,7 +6,7 @@ video: true
 <video id="scenario-1" class="video-js vjs-default-skin vjs-big-play-centered" controls
  preload="auto" width="640" height="480" data-setup='{}'>
   <source src="https://i.imgur.com/T80xXuA.mp4" type='video/mp4'>
-</video></p>
+</video>
 
 *My attention span is often a lot like this*
 
