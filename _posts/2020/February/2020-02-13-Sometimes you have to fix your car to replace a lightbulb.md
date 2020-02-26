@@ -1,8 +1,13 @@
 ---
 layout: post
+video: true
 ---
 
-<iframe width="960" height="540" src="https://i.imgur.com/T80xXuA.mp4" frameborder="0" allowfullscreen></iframe>
+<video id="scenario-1" class="video-js vjs-default-skin vjs-big-play-centered" controls
+ preload="auto" width="640" height="480" data-setup='{}'>
+  <source src="https://i.imgur.com/T80xXuA.mp4" type='video/mp4'>
+</video></p>
+
 *My attention span is often a lot like this*
 
 Logic is the process of placing thoughts in order. There are many ways to see logic in action.
