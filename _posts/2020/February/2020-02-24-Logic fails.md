@@ -10,7 +10,7 @@ It's very easy for a syllogism to be invalid.
 
 Like this bear. This poor, poor bear.
 
-![terriblemistakebear](assets/img/terriblemistakebear.jpg)
+![terriblemistakebear](/assets/img/terriblemistakebear.jpg)
 
 #### Second, sometimes the common sense of the syllogism seems to be okay, but **maybe the construction itself is wrong.**
 
