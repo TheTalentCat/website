@@ -8,7 +8,7 @@ It's very easy for a syllogism to be invalid.
 
 **First, maybe the common sense is wrong.**
 
-Like this bear. This poor, poor bear.
+Like the penguin above. Or this bear. This poor, poor bear.
 
 ![terriblemistakebear](/assets/img/terriblemistakebear.jpg)
 
