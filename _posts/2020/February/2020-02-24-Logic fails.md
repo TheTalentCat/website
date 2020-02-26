@@ -1,16 +1,16 @@
 ---
 layout: post
 ---
+![penguinlogic](/assets/img/PenguinLogic.jpg)
 
-![terriblemistakebear](assets/img/terriblemistakebear.jpg)    
 
 It's very easy for a syllogism to be invalid.
 
 **First, maybe the common sense is wrong.**
 
-Like this penguin.
+Like this bear. This poor, poor bear.
 
-![penguinlogic](/assets/img/PenguinLogic.jpg)
+![terriblemistakebear](assets/img/terriblemistakebear.jpg)
 
 #### Second, sometimes the common sense of the syllogism seems to be okay, but **maybe the construction itself is wrong.**
 
