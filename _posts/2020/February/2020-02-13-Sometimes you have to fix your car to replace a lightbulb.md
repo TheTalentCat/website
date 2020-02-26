@@ -2,7 +2,7 @@
 layout: post
 ---
 
-![sequence](/assets/img/Sequence.mp4)
+<iframe width="960" height="540" src="https://i.imgur.com/T80xXuA.mp4" frameborder="0" allowfullscreen></iframe>
 *My attention span is often a lot like this*
 
 Logic is the process of placing thoughts in order. There are many ways to see logic in action.
