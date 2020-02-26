@@ -22,7 +22,7 @@ The irony of our human condition is that humans are NOT logical creatures by def
 
 This does not mean that logic is impossible. It does mean that being logical requires intentional choices that will sometimes go against the grain of your natural inclinations.
 
-#### That sounds like a lot of work. What's the payoff anyway? What value will I get out of studying logic?
+#### **That sounds like a lot of work. What's the payoff anyway? What value will I get out of studying logic?**
 
 There's loads of benefits, but I'll start with three.
 
