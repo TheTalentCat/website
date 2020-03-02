@@ -82,7 +82,7 @@ Some kids might be fruity, but no kids are fruit.
 
 ![billgatesfruity](/assets/img/billgatesfruity.jpg)
 
-*Damn it feels good to be a gangsta. Oh wait, this is a family friendly server. Right. Dangest thou it feeleth of merriment to be of an illicit nature*
+*Damn it feels good to be a gangsta. Oh wait, this is a family friendly server. Right. Dangest thou it feeleth of merriment to be of an illicit nature!*
 
 #### **5) No syllogism can have both a negative major premise and a negative minor premise.**
 
