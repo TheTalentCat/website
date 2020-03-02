@@ -14,7 +14,7 @@ Like the penguin above. If you're the top that feels like you're logical already
 
 For example, maybe two karate guys are fighting in a tournament, and hard face blows are illegal. If one guy kicks the other guy in the face as hard as he can, it doesn't matter what happens after that. Even if he continues through the motions of beating his opponent, he's already lost, because he KICKED THE OTHER GUY IN THE FACE AND SHOULD BE DISQUALIFIED.
 
-[Lookin at you, karate kid.](https://www.overthinkingit.com/2008/12/08/disqualify-daniel-larusso/) 😒
+![Lookin at you, karate kid.](https://www.overthinkingit.com/2008/12/08/disqualify-daniel-larusso/) 😒
 
 The key takeaway is that even if the common sense seems okay, the logic can still be disqualified. Just like Ralph Macchio should have been disqualified with that crane kick to the face.
 
@@ -24,7 +24,7 @@ There are six rules for how to tell if the construction of a syllogism is wrong.
 
 Maybe you're thinking, "Shucks, that's easy!"
 
-[counttothree](/assets/img/counttothree.gif)
+![counttothree](/assets/img/counttothree.gif)
 *Derp derp, count to three.*
 
 There's more than one way to take this rule. The tricky thing about language is that sometimes the same word can have multiple definitions. Take a look at this syllogism.
