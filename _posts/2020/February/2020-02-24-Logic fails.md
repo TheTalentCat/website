@@ -97,7 +97,7 @@ Never use no double negatives in your syllogisms.
 
 #### **6) No syllogism can have a major premise and a minor premise that are both universal.**
 
-Dude, I'm gonna blow your mind with this one. If you say all of a thing says something new about all of something else, the conclusion tries but fails to add MORE on top of what was already ALL. Dude. There's just no more room for MORE. ALL is ALL, my dude.
+Dude, I'm gonna blow your mind with this one. If you say all of a thing says something new about all of something else, the conclusion tries but fails to add MORE on top of what was already ALL. Dude. There's just NO MORE room for MORE. ALL is ALL, my dude.
 
 >
 - All mammals are animals.
