@@ -8,7 +8,7 @@ It's very easy for a syllogism to be invalid. There are two kinds of ways a syll
 
 **First, the common sense is wrong.**
 
-Like the penguin above. If you're the top that feels like you're logical already, you probably already have this one down. The syllogism meaning is absurd.
+Like the penguin above. If you're the type that feels like you're logical already, you probably already have this one down. The syllogism meaning is absurd.
 
 But what if the common sense of the syllogism seems to be okay? The second way a syllogism can go bad is if **the construction is wrong.**
 
