@@ -67,7 +67,7 @@ Real talk here y'all. This logic fail is where all kinds of evils like racism tr
 
 ![zootopiaracism](/assets/img/zootopiaracism.png)
 
-*Yeah I know better than to use people group names. Instead uou're getting Zootopia racism here folks, this is a FAMILY FRIENDLY SERVER*
+*Yeah I know better than to use people group names. Instead you're getting Zootopia racism here folks, this is a FAMILY FRIENDLY SERVER*
 
 #### **4) Every syllogism's conclusion must be negative if either the major premise or the minor premise is negative.**
 
