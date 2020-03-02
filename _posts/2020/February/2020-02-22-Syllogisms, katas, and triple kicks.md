@@ -16,10 +16,6 @@ Furious flurries of fists and feet.
 
 ![chunlikicks](/assets/img/chunlikicks.gif)
 
-Drunken staggering that suckers an opponent into a suprised stupor.
-
-![drunkenmaster](/assets/img/drunkenmaster.gif)
-
 And moves that just plain look cool.
 
 ![bottlekick](/assets/img/bottlekick.gif)
@@ -59,30 +55,26 @@ Oof. Did you feel that last one?
 
 A premise is like a punch or kick in your logic kata. We aren't trashing bozos or triple kicking boards yet, but hey! We can do some damage now!
 
-We're gonna use some of these terms a lot down the road, so I'll start abbreviating. We'll call Conclusion "Conk" for short.
+#### When we form a syllogism, we use two different premises in order to form a conclusion.
 
-![conk](/assets/img/conk.gif)
+- Minor premise -- A proposition with the subject of the conclusion.
+- Major premise -- A proposition with the predicate of the conclusion.
 
-#### When we form a syllogism, we use two different premises in order to form a Conk.
+Both premises will share a common middle term. Think of the middle term as their mutual friend in the middle.
 
-- Minor premise (ps) -- A proposition with the subject of the conclusion.
-- Major premise (PP)-- A proposition with the predicate of the conclusion.
-
-Both premises will share a common middle term (MT). Think of the MT as their mutual friend in the middle.
-
-Just so you know, the MT and the Conk don't hang out.
+Just so you know, the middle term and the conclusion don't hang out.
 
 Here's an example of a syllogism.
 
 **Bananas are healthy food. Many people love bananas. Therefore, many people love some healthy food.**
 
 >
-- PP = Bananas (MT) are healthy food.
-- ps = Many people love bananas(MT).
-- Conk = Therefore, many people love some healthy food.
+- Major premise = Bananas (middle term) are healthy food.
+- Minor premise = Many people love bananas (middle term).
+- Conclusion = Therefore, many people love some healthy food.
 
 Pretty simple, right? When you look at a perfectly constructed syllogism, like this one, we can say that it is a valid syllogism.
 
-Not every syllogism is created equal. What you might find most surprising is that some of the most snappy zingers aren't really that well constructed. Put them under our microscope, scrutinize the logic, and you'll find that their hits feel more like wet noodles than triple kicks.
+Not every syllogism is created equal. Even if it's constructed well and seems witty as a zinger, it's only as strong as the premises you're assuming. Maybe everybody laughed when you said that guy's mom is like the sun, big and round, but what if he whips out a pic and she turns out to be more like the sun in that she's extremely hot? Thanks for playing, but it's game over for your syllogism.  
 
-I'll probably put an example here sooner or later.
+Check your assumptions. Master the kata of logic. Put it together well, and someday you'll be pulling triple kicks of your own. Logically.

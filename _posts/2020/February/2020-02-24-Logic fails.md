@@ -8,9 +8,7 @@ It's very easy for a syllogism to be invalid.
 
 **First, maybe the common sense is wrong.**
 
-Like the penguin above. Or this bear. This poor, poor bear.
-
-![terriblemistakebear](/assets/img/terriblemistakebear.jpg)
+Like the penguin above. If you're the top that feels like you're logical already, you probably already have this one down. The skeleton of the syllogism itself is solid, but the meaning is absurd.
 
 #### Second, sometimes the common sense of the syllogism seems to be okay, but **maybe the construction itself is wrong.**
 
@@ -18,15 +16,40 @@ For example, maybe two karate guys are fighting in a tournament, and hard face b
 
 [Lookin at you, karate kid.](https://www.overthinkingit.com/2008/12/08/disqualify-daniel-larusso/) 😒
 
-Here are six rules for how to tell.
+The key takeaway is that even if the common sense seems okay, the logic can still be disqualified. Just like Ralph Macchio should have been disqualified with that crane kick to the face.
 
-#### **Every syllogism...**
+There are six rules for how to tell if the construction of a syllogism is wrong.
+
+#### 1) Every syllogism must have exactly three categorical terms.
+
+Maybe you're thinking, "Shucks, that's easy!"
+
+[counttothree](/assets/img/counttothree.gif)
+*Derp derp, count to three.*
+
+There's more than one way to take this rule. The tricky thing about language is that sometimes the same word can have multiple definitions. Take a look at this syllogism.
+
 >
-1. Must have exactly three categorical terms.
-2. Must use the MT correctly.
-3. Must have a conk that uses the terms from the PP and ps correctly.
-4. Must be negative if either the PP or the ps is negative.
-5. Can't have both a negative PP and a negative ps.
-6. Can't have a PP and a ps that are both universal. (i.e. can't use "all" in both premises)
+- Dustin has that car.
+- That car has bad gas.
+- Therefore, Dustin has bad gas.
 
-Don't stress too much on these for now. We'll cross those bridges when we get there. Just know that even if the common sense seems okay, the logic can still be broken.
+This syllogism seems to have three terms. Dustin, car, and gas. But we pulled the ol' switcheroo on one of those words, didn't we?
+
+[peptocar](/assets/img/peptocar.jpg)
+*Just let it all out, you'll feel better baby*
+
+#### 2) Every syllogism must distribute the middle term at least once.
+
+
+
+#### 3) Every syllogism must have a conclusion that uses the terms from the major premise and minor premise correctly.
+
+
+#### 4) Every syllogism must be negative if either the major premise or the minor premise is negative.
+
+
+#### 5) No syllogism can have both a negative major premise and a negative minor premise.
+
+
+#### 6) No syllogism can have a major premise and a minor premise that are both universal.
