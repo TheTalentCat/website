@@ -104,6 +104,6 @@ Dude, I'm gonna blow your mind with this one. If you say all of a thing says som
 - All dogs are mammals.
 - Therefore, some dogs are animals.
 
-All those words, and yet conclusion adds nothing, my friend. It was all there the whole time!
+All those words, and yet the conclusion adds nothing, my friend. It was all there the whole time!
 
 ![blowyourmind](/assets/img/blowyourmind.gif)
