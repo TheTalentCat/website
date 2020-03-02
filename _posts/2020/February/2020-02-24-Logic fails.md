@@ -86,7 +86,7 @@ Some kids might be fruity, but no kids are fruit.
 
 #### **5) No syllogism can have both a negative major premise and a negative minor premise.**
 
-In logical syllogisms, a combo of both a negative major premise and minor premise means the conclusion can't drawn. The premises haven't really argued anything of substance.
+In logical syllogisms, a combo of both a negative major premise and minor premise means the conclusion can't be drawn. The premises haven't really argued anything of substance.
 
 >
 - No burgers are fruit.
