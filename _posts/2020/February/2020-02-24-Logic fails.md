@@ -25,6 +25,7 @@ There are six rules for how to tell if the construction of a syllogism is wrong.
 Maybe you're thinking, "Shucks, that's easy!"
 
 ![counttothree](/assets/img/counttothree.gif)
+
 *Derp derp, count to three.*
 
 There's more than one way to take this rule. The tricky thing about language is that sometimes the same word can have multiple definitions. Take a look at this syllogism.
@@ -37,11 +38,19 @@ There's more than one way to take this rule. The tricky thing about language is 
 This syllogism seems to have three terms. Dustin, car, and gas. But we pulled the ol' switcheroo on one of those words, didn't we?
 
 [peptocar](/assets/img/peptocar.jpg)
-*Just let it all out, you'll feel better baby*
 
-#### 2) Every syllogism must distribute the middle term at least once.
+*Just get it all out, you'll feel better baby*
 
+#### 2) Every syllogism must distribute the middle term in at least one of the premises.
 
+There's gotta be a genuine connection between the major and minor term. It's like a parent holding their kid's hand. If they don't hold on, then the kid is liable to get separated and cause mayhem.
+
+>
+- Kids are trouble.
+- Parents are trouble.
+- Therefore, all parents are kids.
+
+While it could be argued that at least some parents are just big kids, that has nothing to do with our syllogism here. Someone must be the adult in the room and make sure the middle term always gets distributed.
 
 #### 3) Every syllogism must have a conclusion that uses the terms from the major premise and minor premise correctly.
 

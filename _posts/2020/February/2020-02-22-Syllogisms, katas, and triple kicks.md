@@ -60,7 +60,7 @@ A premise is like a punch or kick in your logic kata. We aren't trashing bozos o
 - Minor premise -- A proposition with the subject of the conclusion.
 - Major premise -- A proposition with the predicate of the conclusion.
 
-Both premises will share a common middle term. Think of the middle term as their mutual friend in the middle.
+Both premises will have their own term, the major term and the minor term. They will also share a common middle term. Think of the middle term as their mutual friend in the middle.
 
 Just so you know, the middle term and the conclusion don't hang out.
 
@@ -69,9 +69,9 @@ Here's an example of a syllogism.
 **Bananas are healthy food. Many people love bananas. Therefore, many people love some healthy food.**
 
 >
-- Major premise = Bananas (middle term) are healthy food.
-- Minor premise = Many people love bananas (middle term).
-- Conclusion = Therefore, many people love some healthy food.
+- Major premise = Bananas (middle term) are healthy food (major term).
+- Minor premise = Many people (minor term) love bananas (middle term).
+- Conclusion = Therefore, many people (minor term) love some healthy food (major term).
 
 Pretty simple, right? When you look at a perfectly constructed syllogism, like this one, we can say that it is a valid syllogism.
 
