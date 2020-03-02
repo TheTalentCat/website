@@ -37,7 +37,7 @@ There's more than one way to take this rule. The tricky thing about language is 
 
 This syllogism seems to have three terms. Dustin, car, and gas. But we pulled the ol' switcheroo on one of those words, didn't we?
 
-[peptocar](/assets/img/peptocar.jpg)
+![peptocar](/assets/img/peptocar.jpg)
 
 *Just get it all out, you'll feel better baby*
 
