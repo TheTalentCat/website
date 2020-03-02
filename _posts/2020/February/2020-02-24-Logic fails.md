@@ -10,7 +10,7 @@ It's very easy for a syllogism to be invalid. There are two kinds of ways a syll
 
 Like the penguin above. If you're the top that feels like you're logical already, you probably already have this one down. The syllogism meaning is absurd.
 
-But what if the common sense of the syllogism seems to be okay? The second way a syllogism can go bag is if **the construction is wrong.**
+But what if the common sense of the syllogism seems to be okay? The second way a syllogism can go bad is if **the construction is wrong.**
 
 Let's say maybe two karate guys are fighting in a tournament, and hard face blows are illegal. If one guy kicks the other guy in the face as hard as he can, it doesn't matter what happens after that. Even if he continues through the motions of beating his opponent, he's already lost, because he KICKED THE OTHER GUY IN THE FACE AND SHOULD BE DISQUALIFIED.
 
