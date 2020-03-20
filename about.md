@@ -24,7 +24,12 @@ order: 4
 
 ## The Talent Cat
 
-Looking to make your next career move? Or maybe you are on the other side of the fence, trying to up your game as a recruiter? Whichever side of hiring you live and breathe today, The Talent Cat is on your side!
+Josh Benson is the author of both the blog and the website code of The Talent Cat. He's an empathetic guy that loves people and technology. He has a passion for sales. He loves to tell stories and often weaves them into conversation with friends and clients alike. He aims to learn something about everything so he can relate with anyone. Some say he makes a friend everywhere he goes.
+
+Either way, he writes about whatever he wants.
+
+![me](/assets/img/me.jpg)
+
 {:.lead}
 
 
